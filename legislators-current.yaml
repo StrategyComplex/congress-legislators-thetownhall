@@ -16,7 +16,7 @@
     icpsr: 39310
     wikidata: Q22250
     google_entity_id: kg:/m/01x68t
-    pictorial: 13398
+    pictorial: 13966
   name:
     first: Maria
     last: Cantwell
@@ -107,7 +107,7 @@
     icpsr: 40700
     wikidata: Q22237
     google_entity_id: kg:/m/05fbpt
-    pictorial: 13431
+    pictorial: 14000
   name:
     first: Amy
     middle: Jean
@@ -200,7 +200,7 @@
     house_history: 21173
     wikidata: Q359442
     google_entity_id: kg:/m/01_gbv
-    pictorial: 13382
+    pictorial: 13950
   name:
     first: Bernard
     last: Sanders
@@ -348,7 +348,7 @@
     icpsr: 40704
     wikidata: Q652066
     google_entity_id: kg:/m/07qw94
-    pictorial: 13372
+    pictorial: 13940
   name:
     first: Sheldon
     last: Whitehouse
@@ -425,7 +425,7 @@
     icpsr: 40707
     wikidata: Q720521
     google_entity_id: kg:/m/02rsm32
-    pictorial: 13410
+    pictorial: 13978
   name:
     first: John
     middle: A.
@@ -522,7 +522,7 @@
     house_history: 23734
     wikidata: Q390491
     google_entity_id: kg:/m/025xxb
-    pictorial: 13373
+    pictorial: 13941
   name:
     first: Roger
     middle: F.
@@ -1595,7 +1595,7 @@
     icpsr: 20735
     wikidata: Q22222
     google_entity_id: kg:/m/0gnfc4
-    pictorial: 13442
+    pictorial: 14011
   name:
     first: Kirsten
     middle: E.
@@ -1755,7 +1755,7 @@
     icpsr: 29701
     wikidata: Q672671
     google_entity_id: kg:/m/024p03
-    pictorial: 12897
+    pictorial: 13467
   name:
     first: Robert
     last: Aderholt
@@ -1923,7 +1923,7 @@
     icpsr: 29940
     wikidata: Q40628
     google_entity_id: kg:/m/024v02
-    pictorial: 13412
+    pictorial: 13981
   name:
     first: Tammy
     last: Baldwin
@@ -2127,7 +2127,7 @@
     icpsr: 20758
     wikidata: Q1555314
     google_entity_id: kg:/m/0dy3z1
-    pictorial: 12993
+    pictorial: 13561
   name:
     first: Gus
     last: Bilirakis
@@ -2264,7 +2264,7 @@
     wikidata: Q983428
     google_entity_id: kg:/m/02554k
     ballotpedia: Sanford Bishop Jr.
-    pictorial: 13011
+    pictorial: 13579
   name:
     first: Sanford
     middle: D.
@@ -2445,7 +2445,7 @@
     wikidata: Q458971
     google_entity_id: kg:/m/01fnkt
     lis: S396
-    pictorial: 13419
+    pictorial: 13989
   name:
     first: Marsha
     middle: W.
@@ -2741,7 +2741,7 @@
     icpsr: 20709
     wikidata: Q2517229
     google_entity_id: kg:/m/0gtjsp
-    pictorial: 12997
+    pictorial: 13565
   name:
     first: Vern
     last: Buchanan
@@ -2874,7 +2874,7 @@
     wikidata: Q538978
     google_entity_id: kg:/m/024xl1
     ballotpedia: Ken Calvert
-    pictorial: 12955
+    pictorial: 13525
   name:
     first: Ken
     middle: S.
@@ -3174,7 +3174,7 @@
     icpsr: 20757
     wikidata: Q517649
     google_entity_id: kg:/m/03qcvz1
-    pictorial: 13056
+    pictorial: 13624
   name:
     first: André
     last: Carson
@@ -3310,7 +3310,7 @@
     icpsr: 20356
     wikidata: Q369814
     google_entity_id: kg:/m/04m7rg
-    pictorial: 13288
+    pictorial: 13856
   name:
     first: John
     middle: R.
@@ -3542,7 +3542,7 @@
     icpsr: 20708
     wikidata: Q458492
     google_entity_id: kg:/m/0dq1v6
-    pictorial: 12995
+    pictorial: 13563
   name:
     first: Kathy
     last: Castor
@@ -3675,7 +3675,7 @@
     wikidata: Q460035
     google_entity_id: kg:/m/0krsk2
     ballotpedia: Judy Chu
-    pictorial: 12942
+    pictorial: 13512
   name:
     first: Judy
     middle: M.
@@ -3802,7 +3802,7 @@
     icpsr: 20733
     wikidata: Q461679
     google_entity_id: kg:/m/06h90t
-    pictorial: 13177
+    pictorial: 13745
   name:
     first: Yvette
     middle: D.
@@ -3936,7 +3936,7 @@
     wikidata: Q1334654
     google_entity_id: kg:/m/04cbbm
     ballotpedia: Emanuel Cleaver
-    pictorial: 13119
+    pictorial: 13687
   name:
     first: Emanuel
     last: Cleaver
@@ -4076,7 +4076,7 @@
     icpsr: 39301
     wikidata: Q1289889
     google_entity_id: kg:/m/03c469
-    pictorial: 13246
+    pictorial: 13814
   name:
     first: James
     middle: E.
@@ -4271,7 +4271,7 @@
     wikidata: Q512330
     google_entity_id: kg:/m/04l8cr
     ballotpedia: Steve Cohen
-    pictorial: 13257
+    pictorial: 13825
   name:
     first: Steve
     last: Cohen
@@ -4404,7 +4404,7 @@
     icpsr: 20344
     wikidata: Q173839
     google_entity_id: kg:/m/03tqb0
-    pictorial: 13213
+    pictorial: 13781
   name:
     first: Tom
     last: Cole
@@ -4551,7 +4551,7 @@
     wikidata: Q675869
     google_entity_id: kg:/m/04chm2
     ballotpedia: Jim Costa
-    pictorial: 12935
+    pictorial: 13505
   name:
     first: Jim
     last: Costa
@@ -4690,7 +4690,7 @@
     icpsr: 20706
     wikidata: Q434470
     google_entity_id: kg:/m/0700nd
-    pictorial: 12976
+    pictorial: 13546
   name:
     first: Joe
     last: Courtney
@@ -4922,7 +4922,7 @@
     icpsr: 21106
     wikidata: Q2151554
     google_entity_id: kg:/m/0czb3pp
-    pictorial: 12901
+    pictorial: 13471
   name:
     first: Eric
     middle: A.
@@ -5042,7 +5042,7 @@
     wikidata: Q539562
     google_entity_id: kg:/m/04clj6
     ballotpedia: Henry Cuellar
-    pictorial: 13285
+    pictorial: 13853
   name:
     first: Henry
     last: Cuellar
@@ -5181,7 +5181,7 @@
     icpsr: 29717
     wikidata: Q1164657
     google_entity_id: kg:/m/0256k7
-    pictorial: 13039
+    pictorial: 13607
   name:
     first: Danny
     middle: K.
@@ -5347,7 +5347,7 @@
     icpsr: 29710
     wikidata: Q437159
     google_entity_id: kg:/m/024z95
-    pictorial: 12967
+    pictorial: 13537
   name:
     first: Diana
     middle: L.
@@ -5513,7 +5513,7 @@
     icpsr: 29109
     wikidata: Q434952
     google_entity_id: kg:/m/024zn0
-    pictorial: 12977
+    pictorial: 13547
   name:
     first: Rosa
     middle: L.
@@ -5697,7 +5697,7 @@
     wikidata: Q2260839
     google_entity_id: kg:/m/09k4h2_
     ballotpedia: Scott DesJarlais
-    pictorial: 13252
+    pictorial: 13820
   name:
     first: Scott
     last: DesJarlais
@@ -5815,7 +5815,7 @@
     icpsr: 20316
     wikidata: Q767270
     google_entity_id: kg:/m/02536z
-    pictorial: 13007
+    pictorial: 13575
   name:
     first: Mario
     last: Diaz-Balart
@@ -5965,7 +5965,7 @@
     wikidata: Q363817
     google_entity_id: kg:/m/03flzn
     ballotpedia: Lloyd Doggett
-    pictorial: 13294
+    pictorial: 13862
   name:
     first: Lloyd
     middle: A.
@@ -6137,7 +6137,7 @@
     wikidata: Q521959
     google_entity_id: kg:/m/0ddd54f
     ballotpedia: Charles Fleischmann
-    pictorial: 13251
+    pictorial: 13819
   name:
     first: Charles
     last: Fleischmann
@@ -6257,7 +6257,7 @@
     icpsr: 20521
     wikidata: Q458453
     google_entity_id: kg:/m/02b5dz
-    pictorial: 13134
+    pictorial: 13702
   name:
     first: Virginia
     last: Foxx
@@ -6396,7 +6396,7 @@
     wikidata: Q1340268
     google_entity_id: kg:/m/05fvls
     ballotpedia: John Garamendi
-    pictorial: 12922
+    pictorial: 13492
   name:
     first: John
     last: Garamendi
@@ -6522,7 +6522,7 @@
     icpsr: 21103
     wikidata: Q2059832
     google_entity_id: kg:/m/0czdqz0
-    pictorial: 12914
+    pictorial: 13484
   name:
     first: Paul
     last: Gosar
@@ -6772,7 +6772,7 @@
     wikidata: Q465638
     google_entity_id: kg:/m/03tnfy
     ballotpedia: Sam Graves
-    pictorial: 13120
+    pictorial: 13688
   name:
     first: Sam
     middle: B.
@@ -6926,7 +6926,7 @@
     icpsr: 20529
     wikidata: Q749039
     google_entity_id: kg:/m/02kn0_
-    pictorial: 13266
+    pictorial: 13834
   name:
     first: Al
     last: Green
@@ -7065,7 +7065,7 @@
     icpsr: 21191
     wikidata: Q1684857
     google_entity_id: kg:/m/025vdrq
-    pictorial: 13307
+    pictorial: 13876
   name:
     first: H.
     middle: Morgan
@@ -7184,7 +7184,7 @@
     icpsr: 20916
     wikidata: Q910794
     google_entity_id: kg:/m/0411qqt
-    pictorial: 13064
+    pictorial: 13632
   name:
     first: Brett
     last: Guthrie
@@ -7310,7 +7310,7 @@
     wikidata: Q506639
     google_entity_id: kg:/m/02852wc
     ballotpedia: Andrew Harris
-    pictorial: 13084
+    pictorial: 13652
   name:
     first: Andy
     last: Harris
@@ -7430,7 +7430,7 @@
     icpsr: 20930
     wikidata: Q565374
     google_entity_id: kg:/m/02qkv0r
-    pictorial: 13428
+    pictorial: 13997
   name:
     first: Martin
     last: Heinrich
@@ -7511,7 +7511,7 @@
     icpsr: 20907
     wikidata: Q1689111
     google_entity_id: kg:/m/03w9x9v
-    pictorial: 12978
+    pictorial: 13548
   name:
     first: James
     nickname: Jim
@@ -7641,7 +7641,7 @@
     icpsr: 20713
     wikidata: Q16476
     google_entity_id: kg:/m/0357cd
-    pictorial: 13423
+    pictorial: 13993
   name:
     first: Mazie
     middle: K.
@@ -7799,7 +7799,7 @@
     maplight: 293
     wikidata: Q516515
     google_entity_id: kg:/m/025k5p
-    pictorial: 13088
+    pictorial: 13656
   name:
     first: Steny
     middle: H.
@@ -8046,7 +8046,7 @@
     icpsr: 21142
     wikidata: Q862199
     google_entity_id: kg:/m/05b0j1w
-    pictorial: 13097
+    pictorial: 13665
   name:
     first: Bill
     last: Huizenga
@@ -8366,7 +8366,7 @@
     icpsr: 20738
     wikidata: Q186215
     google_entity_id: kg:/m/04l4x5
-    pictorial: 13198
+    pictorial: 13766
   name:
     first: Jim
     last: Jordan
@@ -8499,7 +8499,7 @@
     wikidata: Q436537
     google_entity_id: kg:/m/039s3l
     ballotpedia: Marcy Kaptur
-    pictorial: 13203
+    pictorial: 13771
   name:
     first: Marcy
     last: Kaptur
@@ -8706,7 +8706,7 @@
     wikidata: Q775412
     google_entity_id: kg:/m/09v6g7c
     ballotpedia: Bill Keating
-    pictorial: 13083
+    pictorial: 13651
   name:
     first: William
     last: Keating
@@ -8825,7 +8825,7 @@
     icpsr: 21167
     wikidata: Q1431761
     google_entity_id: kg:/m/0ds6wcw
-    pictorial: 13236
+    pictorial: 13804
   name:
     first: Mike
     last: Kelly
@@ -9033,7 +9033,7 @@
     wikidata: Q503529
     google_entity_id: kg:/m/025953
     ballotpedia: Rick Larsen
-    pictorial: 13313
+    pictorial: 13882
   name:
     first: Rick
     last: Larsen
@@ -9186,7 +9186,7 @@
     icpsr: 29908
     wikidata: Q357832
     google_entity_id: kg:/m/024zl9
-    pictorial: 12975
+    pictorial: 13545
   name:
     first: John
     middle: B.
@@ -9346,7 +9346,7 @@
     icpsr: 20755
     wikidata: Q888061
     google_entity_id: kg:/m/02z6_j1
-    pictorial: 13199
+    pictorial: 13767
   name:
     first: Robert
     middle: E.
@@ -9547,7 +9547,7 @@
     icpsr: 29504
     wikidata: Q218217
     google_entity_id: kg:/m/024t94
-    pictorial: 12932
+    pictorial: 13502
   name:
     first: Zoe
     last: Lofgren
@@ -9718,7 +9718,7 @@
     icpsr: 29393
     wikidata: Q246049
     google_entity_id: kg:/m/033tnk
-    pictorial: 13212
+    pictorial: 13780
   name:
     first: Frank
     middle: D.
@@ -10009,7 +10009,7 @@
     icpsr: 20119
     wikidata: Q2344921
     google_entity_id: kg:/m/028vsz
-    pictorial: 13082
+    pictorial: 13650
   name:
     first: Stephen
     middle: F.
@@ -10366,7 +10366,7 @@
     wikidata: Q399561
     google_entity_id: kg:/m/059hdf
     ballotpedia: Doris Matsui
-    pictorial: 12921
+    pictorial: 13491
   name:
     first: Doris
     middle: O.
@@ -10509,7 +10509,7 @@
     icpsr: 20530
     wikidata: Q539509
     google_entity_id: kg:/m/0492cz
-    pictorial: 13267
+    pictorial: 13835
   name:
     first: Michael
     middle: T.
@@ -10643,7 +10643,7 @@
     wikidata: Q535887
     google_entity_id: kg:/m/01r6jp
     ballotpedia: Tom McClintock
-    pictorial: 12919
+    pictorial: 13489
   name:
     first: Tom
     last: McClintock
@@ -10769,7 +10769,7 @@
     icpsr: 20122
     wikidata: Q434893
     google_entity_id: kg:/m/0249hy
-    pictorial: 13110
+    pictorial: 13678
   name:
     first: Betty
     middle: Louise
@@ -10923,7 +10923,7 @@
     wikidata: Q1337459
     google_entity_id: kg:/m/028vn7
     ballotpedia: Jim McGovern (Massachusetts)
-    pictorial: 13076
+    pictorial: 13644
   name:
     first: James
     middle: P.
@@ -11090,7 +11090,7 @@
     wikidata: Q1545391
     google_entity_id: kg:/m/024_3b
     ballotpedia: Gregory Meeks
-    pictorial: 13173
+    pictorial: 13741
   name:
     first: Gregory
     middle: W.
@@ -11256,7 +11256,7 @@
     icpsr: 20537
     wikidata: Q461698
     google_entity_id: kg:/m/04cvds
-    pictorial: 13325
+    pictorial: 13894
   name:
     first: Gwen
     last: Moore
@@ -11597,7 +11597,7 @@
     icpsr: 20707
     wikidata: Q1077594
     google_entity_id: kg:/m/0cy_dh
-    pictorial: 13344
+    pictorial: 13914
   name:
     first: Christopher
     middle: S.
@@ -11797,7 +11797,7 @@
     wikidata: Q505598
     google_entity_id: kg:/m/03tk11
     ballotpedia: Jerrold Nadler
-    pictorial: 13180
+    pictorial: 13748
   name:
     first: Jerrold
     middle: L.
@@ -11981,7 +11981,7 @@
     wikidata: Q1464697
     google_entity_id: kg:/m/028vm4
     ballotpedia: Richard Neal
-    pictorial: 13075
+    pictorial: 13643
   name:
     first: Richard
     middle: E.
@@ -12169,7 +12169,7 @@
     maplight: 390
     wikidata: Q461649
     google_entity_id: kg:/m/01s_vp
-    pictorial: 12980
+    pictorial: 13550
     ballotpedia: Eleanor Holmes Norton
   name:
     first: Eleanor
@@ -12355,7 +12355,7 @@
     wikidata: Q965289
     google_entity_id: kg:/m/0g6t5w
     ballotpedia: Frank Pallone
-    pictorial: 13155
+    pictorial: 13723
   name:
     first: Frank
     middle: J.
@@ -12621,7 +12621,7 @@
     maplight: 408
     wikidata: Q170581
     google_entity_id: kg:/m/012v1t
-    pictorial: 12925
+    pictorial: 13495
   name:
     first: Nancy
     last: Pelosi
@@ -12930,7 +12930,7 @@
     icpsr: 20920
     wikidata: Q457243
     google_entity_id: kg:/m/05gflq
-    pictorial: 13092
+    pictorial: 13660
   name:
     first: Chellie
     last: Pingree
@@ -13056,7 +13056,7 @@
     icpsr: 20954
     wikidata: Q465767
     google_entity_id: kg:/m/0fccwh
-    pictorial: 13037
+    pictorial: 13605
   name:
     first: Mike
     last: Quigley
@@ -13182,7 +13182,7 @@
     maplight: 434
     wikidata: Q547153
     google_entity_id: kg:/m/025jnx
-    pictorial: 13067
+    pictorial: 13635
   name:
     first: Harold
     last: Rogers
@@ -13396,7 +13396,7 @@
     icpsr: 20301
     wikidata: Q693238
     google_entity_id: kg:/m/024n_s
-    pictorial: 12896
+    pictorial: 13466
   name:
     first: Mike
     last: Rogers
@@ -13543,7 +13543,7 @@
     house_history: 22608
     wikidata: Q1857141
     google_entity_id: kg:/m/0br34c
-    pictorial: 13069
+    pictorial: 13637
   name:
     first: Steve
     middle: Joseph
@@ -13705,7 +13705,7 @@
     house_history: 22550
     wikidata: Q440885
     google_entity_id: kg:/m/0256nw
-    pictorial: 13041
+    pictorial: 13609
   name:
     first: Janice
     middle: D.
@@ -13868,7 +13868,7 @@
     house_history: 22560
     wikidata: Q350843
     google_entity_id: kg:/m/024tls
-    pictorial: 12944
+    pictorial: 14020
   name:
     first: Adam
     middle: B.
@@ -14196,7 +14196,7 @@
     house_history: 22621
     wikidata: Q1176561
     google_entity_id: kg:/m/03wbpxj
-    pictorial: 12906
+    pictorial: 13476
   name:
     first: David
     last: Schweikert
@@ -14313,7 +14313,7 @@
     house_history: 22631
     wikidata: Q781167
     google_entity_id: kg:/m/076zn3y
-    pictorial: 13017
+    pictorial: 13585
   name:
     first: Austin
     last: Scott
@@ -14431,7 +14431,7 @@
     house_history: 22574
     wikidata: Q132071
     google_entity_id: kg:/m/0255r4
-    pictorial: 13022
+    pictorial: 13590
   name:
     first: David
     last: Scott
@@ -14578,7 +14578,7 @@
     house_history: 21368
     wikidata: Q888668
     google_entity_id: kg:/m/03twgl
-    pictorial: 13302
+    pictorial: 13870
   name:
     first: Robert
     middle: C.
@@ -14855,7 +14855,7 @@
     house_history: 22624
     wikidata: Q461621
     google_entity_id: kg:/m/05pbszt
-    pictorial: 12900
+    pictorial: 13470
   name:
     first: Terri
     last: Sewell
@@ -14974,7 +14974,7 @@
     wikidata: Q672919
     google_entity_id: kg:/m/024tkr
     ballotpedia: Brad Sherman
-    pictorial: 12946
+    pictorial: 13516
   name:
     first: Brad
     middle: J.
@@ -15140,7 +15140,7 @@
     house_history: 22556
     wikidata: Q549521
     google_entity_id: kg:/m/0255tn
-    pictorial: 13032
+    pictorial: 13600
   name:
     first: Michael
     middle: K.
@@ -15301,7 +15301,7 @@
     house_history: 21774
     wikidata: Q350916
     google_entity_id: kg:/m/024zj_
-    pictorial: 13320
+    pictorial: 13889
   name:
     first: Adam
     last: Smith
@@ -15466,7 +15466,7 @@
     house_history: 22600
     wikidata: Q373443
     google_entity_id: kg:/m/0c505n
-    pictorial: 13147
+    pictorial: 13715
   name:
     first: Adrian
     last: Smith
@@ -15599,7 +15599,7 @@
     wikidata: Q981167
     google_entity_id: kg:/m/033f4d
     ballotpedia: Chris Smith (New Jersey)
-    pictorial: 13153
+    pictorial: 13721
   name:
     first: Christopher
     middle: H.
@@ -15966,7 +15966,7 @@
     wikidata: Q817877
     google_entity_id: kg:/m/033tc5
     ballotpedia: Bennie Thompson
-    pictorial: 13125
+    pictorial: 13693
   name:
     first: Bennie
     middle: G.
@@ -16144,7 +16144,7 @@
     wikidata: Q1323196
     google_entity_id: kg:/m/024sdl
     ballotpedia: Mike Thompson (California)
-    pictorial: 12918
+    pictorial: 13488
   name:
     first: Mike
     middle: Michael
@@ -16304,7 +16304,7 @@
     wikidata: Q1531120
     google_entity_id: kg:/m/0409b0_
     ballotpedia: Glenn Thompson (Pennsylvania)
-    pictorial: 13235
+    pictorial: 13803
   name:
     first: Glenn
     last: Thompson
@@ -16543,7 +16543,7 @@
     wikidata: Q1373548
     google_entity_id: kg:/m/0gzy4c
     ballotpedia: Paul Tonko
-    pictorial: 13188
+    pictorial: 13756
   name:
     first: Paul
     last: Tonko
@@ -16670,7 +16670,7 @@
     house_history: 23206
     wikidata: Q505722
     google_entity_id: kg:/m/03440l
-    pictorial: 13204
+    pictorial: 13772
   name:
     first: Michael
     middle: R.
@@ -17107,7 +17107,7 @@
     house_history: 24179
     wikidata: Q978618
     google_entity_id: kg:/m/0d7n3m
-    pictorial: 13098
+    pictorial: 13666
   name:
     first: Tim
     last: Walberg
@@ -17232,7 +17232,7 @@
     house_history: 24177
     wikidata: Q50104
     google_entity_id: kg:/m/04cmyw
-    pictorial: 13006
+    pictorial: 13574
   name:
     first: Debbie
     last: Wasserman Schultz
@@ -17371,7 +17371,7 @@
     house_history: 23438
     wikidata: Q461727
     google_entity_id: kg:/m/024tyk
-    pictorial: 12957
+    pictorial: 13527
   name:
     first: Maxine
     last: Waters
@@ -17555,7 +17555,7 @@
     house_history: 24192
     wikidata: Q1163099
     google_entity_id: kg:/m/03cg47l
-    pictorial: 12992
+    pictorial: 13560
   name:
     first: Daniel
     last: Webster
@@ -17799,7 +17799,7 @@
     house_history: 24173
     wikidata: Q928855
     google_entity_id: kg:/m/03tll0
-    pictorial: 13242
+    pictorial: 13810
   name:
     first: Joe
     middle: G.
@@ -17953,7 +17953,7 @@
     house_history: 24196
     wikidata: Q461504
     google_entity_id: kg:/m/03cg3tv
-    pictorial: 13005
+    pictorial: 13573
   name:
     first: Frederica
     last: Wilson
@@ -18072,7 +18072,7 @@
     house_history: 24189
     wikidata: Q541251
     google_entity_id: kg:/m/03cx7ld
-    pictorial: 13300
+    pictorial: 13868
   name:
     first: Robert
     middle: J.
@@ -18206,7 +18206,7 @@
     house_history: 24197
     wikidata: Q1029527
     google_entity_id: kg:/m/0cmcvkz
-    pictorial: 12903
+    pictorial: 13473
   name:
     first: Steve
     last: Womack
@@ -18552,7 +18552,7 @@
     icpsr: 21196
     wikidata: Q23944
     google_entity_id: kg:/m/03bzdkn
-    pictorial: 13166
+    pictorial: 13734
   name:
     first: Mark
     middle: E.
@@ -18672,7 +18672,7 @@
     icpsr: 21198
     wikidata: Q45946
     google_entity_id: kg:/m/02q453x
-    pictorial: 13215
+    pictorial: 13783
   name:
     first: Suzanne
     last: Bonamici
@@ -18790,7 +18790,7 @@
     house_history: 15032387032
     wikidata: Q2091892
     google_entity_id: kg:/m/05p0dnk
-    pictorial: 13312
+    pictorial: 13881
   name:
     first: Suzan
     middle: K.
@@ -18907,7 +18907,7 @@
     icpsr: 31102
     wikidata: Q2426031
     google_entity_id: kg:/m/0h_cb6v
-    pictorial: 13066
+    pictorial: 13634
   name:
     first: Thomas
     last: Massie
@@ -19112,7 +19112,7 @@
     icpsr: 20749
     wikidata: Q2903389
     google_entity_id: kg:/m/02rq8nc
-    pictorial: 13043
+    pictorial: 13611
   name:
     first: Bill
     last: Foster
@@ -19233,7 +19233,7 @@
     house_history: 23215
     wikidata: Q524440
     google_entity_id: kg:/m/07hwl2
-    pictorial: 13165
+    pictorial: 13733
   name:
     first: Dina
     last: Titus
@@ -19410,7 +19410,7 @@
     icpsr: 21303
     wikidata: Q3276717
     google_entity_id: kg:/m/0ksfyx
-    pictorial: 12916
+    pictorial: 13486
   name:
     first: Jared
     last: Huffman
@@ -19516,7 +19516,7 @@
     icpsr: 21304
     wikidata: Q3389105
     google_entity_id: kg:/m/0dgqnts
-    pictorial: 12920
+    pictorial: 13490
   name:
     first: Ami
     last: Bera
@@ -19622,7 +19622,7 @@
     icpsr: 21306
     wikidata: Q3466996
     google_entity_id: kg:/m/0ncq55g
-    pictorial: 12928
+    pictorial: 13498
   name:
     first: Eric
     last: Swalwell
@@ -19719,7 +19719,7 @@
     house_history: 15032386871
     wikidata: Q3577073
     google_entity_id: kg:/m/027z42z
-    pictorial: 12940
+    pictorial: 13510
   name:
     first: Julia
     last: Brownley
@@ -19825,7 +19825,7 @@
     icpsr: 21311
     wikidata: Q3701994
     google_entity_id: kg:/m/02p8pz0
-    pictorial: 12939
+    pictorial: 13509
   name:
     first: Raul
     last: Ruiz
@@ -19930,7 +19930,7 @@
     icpsr: 21312
     wikidata: Q399593
     google_entity_id: kg:/m/0k3lj_y
-    pictorial: 12953
+    pictorial: 13523
   name:
     first: Mark
     last: Takano
@@ -20035,7 +20035,7 @@
     icpsr: 21314
     wikidata: Q3791701
     google_entity_id: kg:/m/076bp4
-    pictorial: 12966
+    pictorial: 13536
   name:
     first: Juan
     last: Vargas
@@ -20141,7 +20141,7 @@
     icpsr: 21315
     wikidata: Q3791514
     google_entity_id: kg:/m/02rymxd
-    pictorial: 12964
+    pictorial: 13534
   name:
     first: Scott
     last: Peters
@@ -20250,7 +20250,7 @@
     house_history: 15032387115
     wikidata: Q3182451
     google_entity_id: kg:/m/0gjdw8_
-    pictorial: 13003
+    pictorial: 13571
   name:
     first: Lois
     last: Frankel
@@ -20431,7 +20431,7 @@
     icpsr: 21333
     wikidata: Q3828645
     google_entity_id: kg:/m/0ddc6r6
-    pictorial: 13068
+    pictorial: 13636
   name:
     first: Garland
     last: Barr
@@ -20537,7 +20537,7 @@
     house_history: 15032390639
     wikidata: Q434706
     google_entity_id: kg:/m/01qh39
-    pictorial: 13378
+    pictorial: 13946
   name:
     first: Elizabeth
     last: Warren
@@ -20610,7 +20610,7 @@
     icpsr: 41300
     wikidata: Q544464
     google_entity_id: kg:/m/02hfx0
-    pictorial: 13432
+    pictorial: 14001
   name:
     first: Angus
     middle: S.
@@ -20680,7 +20680,7 @@
     house_history: 15032387908
     wikidata: Q3917251
     google_entity_id: kg:/m/07q9w8
-    pictorial: 13116
+    pictorial: 13684
   name:
     first: Ann
     last: Wagner
@@ -20852,7 +20852,7 @@
     icpsr: 21346
     wikidata: Q3956999
     google_entity_id: kg:/m/0nbwfxs
-    pictorial: 13138
+    pictorial: 13706
   name:
     first: Richard
     last: Hudson
@@ -20967,7 +20967,7 @@
     wikidata: Q3957020
     google_entity_id: kg:/m/02rhrnw
     lis: S398
-    pictorial: 13408
+    pictorial: 13977
   name:
     first: Kevin
     last: Cramer
@@ -21055,7 +21055,7 @@
     house_history: 15032390640
     wikidata: Q2580649
     google_entity_id: kg:/m/0c4cp0
-    pictorial: 13438
+    pictorial: 14006
   name:
     first: Deb
     last: Fischer
@@ -21120,7 +21120,7 @@
     house_history: 15032387500
     wikidata: Q5591303
     google_entity_id: kg:/m/04ld76x
-    pictorial: 13174
+    pictorial: 13742
   name:
     first: Grace
     last: Meng
@@ -21225,7 +21225,7 @@
     icpsr: 21343
     wikidata: Q5640425
     google_entity_id: kg:/m/025_74m
-    pictorial: 13176
+    pictorial: 13744
   name:
     first: Hakeem
     last: Jeffries
@@ -21346,7 +21346,7 @@
     house_history: 15032386867
     wikidata: Q976417
     google_entity_id: kg:/m/03lcwb
-    pictorial: 13197
+    pictorial: 13765
   name:
     first: Joyce
     last: Beatty
@@ -21451,7 +21451,7 @@
     icpsr: 21353
     wikidata: Q976778
     google_entity_id: kg:/m/0ktwnp_
-    pictorial: 13208
+    pictorial: 13776
   name:
     first: David
     last: Joyce
@@ -21656,7 +21656,7 @@
     icpsr: 21356
     wikidata: Q7437040
     google_entity_id: kg:/m/04mwt6y
-    pictorial: 13230
+    pictorial: 13798
   name:
     first: Scott
     last: Perry
@@ -21763,7 +21763,7 @@
     icpsr: 41304
     wikidata: Q2036942
     google_entity_id: kg:/m/07j6ty
-    pictorial: 13402
+    pictorial: 13974
   name:
     first: Ted
     last: Cruz
@@ -21824,7 +21824,7 @@
     icpsr: 21360
     wikidata: Q4014569
     google_entity_id: kg:/m/0km63t0
-    pictorial: 13271
+    pictorial: 13839
   name:
     first: Randy
     last: Weber
@@ -21932,7 +21932,7 @@
     icpsr: 21362
     wikidata: Q1167934
     google_entity_id: kg:/m/0bmclg
-    pictorial: 13277
+    pictorial: 13845
   name:
     first: Joaquin
     last: Castro
@@ -22039,7 +22039,7 @@
     icpsr: 21364
     wikidata: Q4014560
     google_entity_id: kg:/m/08rszb
-    pictorial: 13282
+    pictorial: 13850
   name:
     first: Roger
     last: Williams
@@ -22145,7 +22145,7 @@
     icpsr: 21365
     wikidata: Q4068811
     google_entity_id: kg:/m/0kmnfw5
-    pictorial: 13290
+    pictorial: 13858
   name:
     first: Marc
     last: Veasey
@@ -22252,7 +22252,7 @@
     icpsr: 41305
     wikidata: Q359888
     google_entity_id: kg:/m/053f8h
-    pictorial: 13434
+    pictorial: 14003
   name:
     first: Timothy
     nickname: Tim
@@ -22317,7 +22317,7 @@
     icpsr: 21370
     wikidata: Q1900355
     google_entity_id: kg:/m/0gyhpz
-    pictorial: 13323
+    pictorial: 13892
   name:
     first: Mark
     last: Pocan
@@ -22424,7 +22424,7 @@
     maplight: 2045
     wikidata: Q3437091
     google_entity_id: kg:/m/0g8l32
-    pictorial: 13034
+    pictorial: 13602
   name:
     first: Robin
     middle: L.
@@ -22531,7 +22531,7 @@
     icpsr: 21373
     wikidata: Q6163589
     google_entity_id: kg:/m/0g9yj_2
-    pictorial: 13122
+    pictorial: 13690
   name:
     first: Jason
     middle: T.
@@ -22710,7 +22710,7 @@
     wikidata: Q6376330
     google_entity_id: kg:/m/0fpjc8b
     icpsr: 21375
-    pictorial: 13079
+    pictorial: 13647
   name:
     first: Katherine
     middle: M.
@@ -22822,7 +22822,7 @@
     google_entity_id: kg:/m/09g8b1_
     votesmart: 116277
     icpsr: 21536
-    pictorial: 13150
+    pictorial: 13718
   name:
     first: Donald
     middle: W.
@@ -22922,7 +22922,7 @@
     google_entity_id: kg:/m/02b45d
     votesmart: 5935
     icpsr: 21545
-    pictorial: 13141
+    pictorial: 13709
   name:
     first: Alma
     middle: S.
@@ -23021,7 +23021,7 @@
     cspan: 76094
     icpsr: 21500
     ballotpedia: Gary Palmer
-    pictorial: 12899
+    pictorial: 13469
   name:
     first: Gary
     middle: J.
@@ -23121,7 +23121,7 @@
     cspan: 9265172
     icpsr: 21503
     ballotpedia: French Hill
-    pictorial: 12902
+    pictorial: 13472
   name:
     first: J.
     middle: French
@@ -23208,7 +23208,7 @@
     cspan: 76097
     icpsr: 21563
     ballotpedia: Bruce Westerman
-    pictorial: 12904
+    pictorial: 13474
   name:
     first: Bruce
     last: Westerman
@@ -23379,7 +23379,7 @@
     icpsr: 21504
     votesmart: 69477
     ballotpedia: Mark DeSaulnier
-    pictorial: 12924
+    pictorial: 13494
   name:
     first: Mark
     last: DeSaulnier
@@ -23465,7 +23465,7 @@
     cspan: 79994
     icpsr: 21506
     ballotpedia: Pete Aguilar
-    pictorial: 12947
+    pictorial: 13517
   name:
     first: Pete
     last: Aguilar
@@ -23563,7 +23563,7 @@
     icpsr: 21507
     votesmart: 1516
     ballotpedia: Ted Lieu
-    pictorial: 12950
+    pictorial: 13520
   name:
     first: Ted
     last: Lieu
@@ -23654,7 +23654,7 @@
     icpsr: 21508
     votesmart: 71284
     ballotpedia: Norma Torres
-    pictorial: 12949
+    pictorial: 13519
   name:
     first: Norma
     middle: J.
@@ -23829,7 +23829,7 @@
     cspan: 76165
     icpsr: 21515
     ballotpedia: Barry Loudermilk
-    pictorial: 13020
+    pictorial: 13588
   name:
     first: Barry
     last: Loudermilk
@@ -23915,7 +23915,7 @@
     cspan: 62545
     icpsr: 21516
     ballotpedia: Rick Allen
-    pictorial: 13021
+    pictorial: 13589
   name:
     first: Rick
     middle: W.
@@ -24002,7 +24002,7 @@
     icpsr: 21519
     votesmart: 6302
     ballotpedia: Mike Bost
-    pictorial: 13044
+    pictorial: 13612
   name:
     first: Mike
     last: Bost
@@ -24088,7 +24088,7 @@
     ballotpedia: Seth Moulton
     cspan: 78453
     icpsr: 21525
-    pictorial: 13080
+    pictorial: 13648
   name:
     first: Seth
     last: Moulton
@@ -24174,7 +24174,7 @@
     cspan: 76660
     icpsr: 21526
     ballotpedia: John Moolenaar
-    pictorial: 13095
+    pictorial: 13663
   name:
     first: John
     middle: R.
@@ -24262,7 +24262,7 @@
     cspan: 20818
     icpsr: 21529
     ballotpedia: Debbie Dingell
-    pictorial: 13099
+    pictorial: 13667
   name:
     first: Debbie
     last: Dingell
@@ -24348,7 +24348,7 @@
     cspan: 75567
     icpsr: 21531
     ballotpedia: Tom Emmer
-    pictorial: 13112
+    pictorial: 13680
   name:
     first: Tom
     last: Emmer
@@ -24442,7 +24442,7 @@
     cspan: 79710
     icpsr: 21544
     ballotpedia: David Rouzer
-    pictorial: 13136
+    pictorial: 13704
   name:
     first: David
     last: Rouzer
@@ -24528,7 +24528,7 @@
     votesmart: 24799
     cspan: 79091
     icpsr: 21538
-    pictorial: 13161
+    pictorial: 13729
   name:
     first: Bonnie
     last: Watson Coleman
@@ -24615,7 +24615,7 @@
     cspan: 76364
     icpsr: 21541
     ballotpedia: Elise Stefanik
-    pictorial: 13189
+    pictorial: 13757
   name:
     first: Elise
     middle: M.
@@ -24711,7 +24711,7 @@
     cspan: 76428
     icpsr: 21548
     ballotpedia: Brendan Boyle
-    pictorial: 13222
+    pictorial: 13790
   name:
     first: Brendan
     middle: F.
@@ -24798,7 +24798,7 @@
     cspan: 44883
     icpsr: 21551
     ballotpedia: Brian Babin
-    pictorial: 13293
+    pictorial: 13861
   name:
     first: Brian
     last: Babin
@@ -24884,7 +24884,7 @@
     cspan: 21141
     icpsr: 21554
     ballotpedia: Don Beyer
-    pictorial: 13306
+    pictorial: 13875
   name:
     first: Donald
     middle: S.
@@ -24971,7 +24971,7 @@
     google_entity_id: kg:/m/012844_c
     cspan: 79090
     votesmart: 155929
-    pictorial: 13310
+    pictorial: 13879
     ballotpedia: Stacey Plaskett
   name:
     first: Stacey
@@ -25059,7 +25059,7 @@
     cspan: 78315
     icpsr: 21556
     ballotpedia: Dan Newhouse
-    pictorial: 13315
+    pictorial: 13884
   name:
     first: Dan
     last: Newhouse
@@ -25145,7 +25145,7 @@
     cspan: 77282
     icpsr: 21559
     ballotpedia: Glenn Grothman
-    pictorial: 13327
+    pictorial: 13896
   name:
     first: Glenn
     last: Grothman
@@ -25529,7 +25529,7 @@
     google_entity_id: kg:/m/013b9qgh
     cspan: 97322
     icpsr: 21561
-    pictorial: 13124
+    pictorial: 13692
   name:
     first: Trent
     last: Kelly
@@ -25615,7 +25615,7 @@
     google_entity_id: kg:/m/0gg7rcy
     cspan: 70020
     icpsr: 21562
-    pictorial: 13048
+    pictorial: 13616
   name:
     first: Darin
     last: LaHood
@@ -25700,7 +25700,7 @@
     google_entity_id: kg:/g/11cmmch3q8
     cspan: 102555
     icpsr: 21564
-    pictorial: 13202
+    pictorial: 13770
   name:
     first: Warren
     last: Davidson
@@ -25782,7 +25782,7 @@
     votesmart: 35169
     maplight: 2166
     icpsr: 21565
-    pictorial: 13063
+    pictorial: 13631
   name:
     first: James
     last: Comer
@@ -25872,7 +25872,7 @@
     votesmart: 9128
     maplight: 2167
     icpsr: 21566
-    pictorial: 13223
+    pictorial: 13791
   name:
     first: Dwight
     last: Evans
@@ -26118,7 +26118,7 @@
     icpsr: 21326
     wikidata: Q2923426
     google_entity_id: kg:/m/0j63zyv
-    pictorial: 13042
+    pictorial: 13610
   name:
     first: Bradley
     last: Schneider
@@ -26211,7 +26211,7 @@
     cspan: 105145
     icpsr: 21705
     ballotpedia: Andy Biggs
-    pictorial: 12910
+    pictorial: 13480
   name:
     first: Andy
     last: Biggs
@@ -26284,7 +26284,7 @@
     cspan: 31129
     icpsr: 21728
     ballotpedia: Ro Khanna
-    pictorial: 12931
+    pictorial: 13501
   name:
     first: Ro
     last: Khanna
@@ -26357,7 +26357,7 @@
     cspan: 104727
     icpsr: 21740
     ballotpedia: Jimmy Panetta
-    pictorial: 12933
+    pictorial: 13503
   name:
     first: Jimmy
     last: Panetta
@@ -26430,7 +26430,7 @@
     cspan: 104728
     icpsr: 21709
     ballotpedia: Salud Carbajal
-    pictorial: 12938
+    pictorial: 13508
   name:
     first: Salud
     middle: O.
@@ -26578,7 +26578,7 @@
     cspan: 46310
     icpsr: 21711
     ballotpedia: Lou Correa
-    pictorial: 12960
+    pictorial: 13530
   name:
     first: J.
     middle: Luis
@@ -26654,7 +26654,7 @@
     cspan: 104772
     icpsr: 21706
     ballotpedia: Lisa Blunt Rochester
-    pictorial: 12981
+    pictorial: 13965
   name:
     first: Lisa
     last: Blunt Rochester
@@ -26728,7 +26728,7 @@
     cspan: 104529
     icpsr: 21714
     ballotpedia: Neal Dunn
-    pictorial: 12983
+    pictorial: 13552
   name:
     first: Neal
     middle: P.
@@ -26802,7 +26802,7 @@
     cspan: 104531
     icpsr: 21744
     ballotpedia: John Rutherford (Florida)
-    pictorial: 12986
+    pictorial: 13555
   name:
     first: John
     middle: H.
@@ -26876,7 +26876,7 @@
     cspan: 104534
     icpsr: 21746
     ballotpedia: Darren Soto
-    pictorial: 12990
+    pictorial: 13558
   name:
     first: Darren
     last: Soto
@@ -26949,7 +26949,7 @@
     ballotpedia: Brian Mast
     cspan: 104540
     icpsr: 21735
-    pictorial: 13002
+    pictorial: 13570
   name:
     first: Brian
     middle: J.
@@ -27023,7 +27023,7 @@
     cspan: 103408
     icpsr: 21730
     ballotpedia: Raja Krishnamoorthi
-    pictorial: 13040
+    pictorial: 13608
   name:
     first: Raja
     last: Krishnamoorthi
@@ -27098,7 +27098,7 @@
     ballotpedia: Jim Banks
     cspan: 89806
     icpsr: 21702
-    pictorial: 13052
+    pictorial: 14023
   name:
     first: Jim
     last: Banks
@@ -27228,7 +27228,7 @@
     cspan: 106094
     icpsr: 21724
     ballotpedia: Clay Higgins
-    pictorial: 13071
+    pictorial: 13639
   name:
     first: Clay
     last: Higgins
@@ -27301,7 +27301,7 @@
     cspan: 106095
     icpsr: 21727
     ballotpedia: Mike Johnson (Louisiana)
-    pictorial: 13072
+    pictorial: 13640
   name:
     first: Mike
     last: Johnson
@@ -27386,7 +27386,7 @@
     cspan: 12924
     icpsr: 21741
     ballotpedia: Jamie Raskin
-    pictorial: 13091
+    pictorial: 13659
   name:
     first: Jamie
     last: Raskin
@@ -27459,7 +27459,7 @@
     cspan: 1020529
     icpsr: 21704
     ballotpedia: Jack Bergman
-    pictorial: 13094
+    pictorial: 13662
   name:
     first: Jack
     last: Bergman
@@ -27599,7 +27599,7 @@
     cspan: 103442
     icpsr: 21701
     ballotpedia: Don Bacon
-    pictorial: 13146
+    pictorial: 13714
   name:
     first: Don
     last: Bacon
@@ -27672,7 +27672,7 @@
     cspan: 9275683
     icpsr: 21723
     ballotpedia: Josh Gottheimer
-    pictorial: 13154
+    pictorial: 13722
   name:
     first: Josh
     last: Gottheimer
@@ -27746,7 +27746,7 @@
     google_entity_id: kg:/g/11cntnvwkg
     cspan: 104738
     icpsr: 21743
-    pictorial: 13386
+    pictorial: 13955
     ballotpedia: Jacky Rosen
   name:
     first: Jacky
@@ -27804,7 +27804,7 @@
     cspan: 68413
     icpsr: 21715
     ballotpedia: Adriano Espaillat
-    pictorial: 13181
+    pictorial: 13749
   name:
     first: Adriano
     last: Espaillat
@@ -27878,7 +27878,7 @@
     cspan: 103537
     icpsr: 21718
     ballotpedia: Brian Fitzpatrick
-    pictorial: 13221
+    pictorial: 13789
   name:
     first: Brian
     middle: K.
@@ -27952,7 +27952,7 @@
     cspan: 103540
     icpsr: 21745
     ballotpedia: Lloyd Smucker
-    pictorial: 13231
+    pictorial: 13799
   name:
     first: Lloyd
     last: Smucker
@@ -28025,7 +28025,7 @@
     cspan: 28903
     icpsr: 21731
     ballotpedia: David Kustoff
-    pictorial: 13256
+    pictorial: 13824
   name:
     first: David
     last: Kustoff
@@ -28098,7 +28098,7 @@
     cspan: 103568
     icpsr: 21722
     ballotpedia: Vicente Gonzalez Jr.
-    pictorial: 13291
+    pictorial: 13859
   name:
     first: Vicente
     last: Gonzalez
@@ -28171,7 +28171,7 @@
     cspan: 1016482
     icpsr: 21700
     ballotpedia: Jodey Arrington
-    pictorial: 13276
+    pictorial: 13844
   name:
     first: Jodey
     middle: C.
@@ -28245,7 +28245,7 @@
     cspan: 9267128
     icpsr: 21726
     ballotpedia: Pramila Jayapal
-    pictorial: 13318
+    pictorial: 13887
   name:
     first: Pramila
     last: Jayapal
@@ -28319,7 +28319,7 @@
     google_entity_id: kg:/m/0gfgsrm
     opensecrets: N00040712
     icpsr: 21750
-    pictorial: 13062
+    pictorial: 13630
   name:
     first: Ron
     last: Estes
@@ -28394,7 +28394,7 @@
     house_history: 15032448994
     maplight: 2248
     icpsr: 21753
-    pictorial: 13245
+    pictorial: 13813
   name:
     first: Ralph
     last: Norman
@@ -28469,7 +28469,7 @@
     house_history: 15032449022
     maplight: 2250
     icpsr: 21754
-    pictorial: 12948
+    pictorial: 13518
   name:
     first: Jimmy
     last: Gomez
@@ -28543,7 +28543,7 @@
     google_entity_id: kg:/m/0bmdhtb
     maplight: 2251
     icpsr: 21755
-    pictorial: 13298
+    pictorial: 13954
   name:
     first: John
     middle: R.
@@ -28741,7 +28741,7 @@
     votesmart: 177350
     icpsr: 21758
     google_entity_id: kg:/g/11f6y3n6vk
-    pictorial: 13284
+    pictorial: 13852
   name:
     first: Michael
     last: Cloud
@@ -28812,7 +28812,7 @@
     google_entity_id: kg:/m/09ry4tm
     votesmart: 102781
     icpsr: 21759
-    pictorial: 13206
+    pictorial: 13774
   name:
     first: Troy
     last: Balderson
@@ -28883,7 +28883,7 @@
     votesmart: 180004
     icpsr: 21760
     google_entity_id: kg:/g/11gzqw48lf
-    pictorial: 13210
+    pictorial: 13778
   name:
     first: Kevin
     middle: R.
@@ -28959,7 +28959,7 @@
     google_entity_id: kg:/m/03d820m
     votesmart: 4362
     icpsr: 21761
-    pictorial: 13193
+    pictorial: 13761
   name:
     first: Joseph
     middle: D.
@@ -29031,7 +29031,7 @@
     votesmart: 178890
     icpsr: 21762
     google_entity_id: kg:/g/11gtg87gkn
-    pictorial: 13225
+    pictorial: 13793
   name:
     first: Mary
     middle: Gay
@@ -29104,7 +29104,7 @@
     wikidata: Q597613
     google_entity_id: kg:/m/0255s6
     ballotpedia: Ed Case
-    pictorial: 13025
+    pictorial: 13593
     votesmart: 3422
   name:
     first: Ed
@@ -29183,7 +29183,7 @@
     icpsr: 21339
     wikidata: Q3514907
     google_entity_id: kg:/m/03c01w9
-    pictorial: 13168
+    pictorial: 13736
   name:
     first: Steven
     last: Horsford
@@ -29261,7 +29261,7 @@
     votesmart: 72030
     icpsr: 21968
     ballotpedia: Greg Stanton
-    pictorial: 12909
+    pictorial: 13479
   name:
     first: Greg
     last: Stanton
@@ -29322,7 +29322,7 @@
     ballotpedia: Josh Harder
     icpsr: 21930
     google_entity_id: kg:/g/11fhwknffg
-    pictorial: 12923
+    pictorial: 13493
   name:
     first: Josh
     last: Harder
@@ -29382,7 +29382,7 @@
     votesmart: 179416
     icpsr: 21939
     google_entity_id: kg:/g/11gfd5mdpc
-    pictorial: 12963
+    pictorial: 13533
   name:
     first: Mike
     last: Levin
@@ -29443,7 +29443,7 @@
     icpsr: 21948
     ballotpedia: Joe Neguse
     google_entity_id: kg:/g/11gnsnch0m
-    pictorial: 12968
+    pictorial: 13538
   name:
     first: Joe
     last: Neguse
@@ -29512,7 +29512,7 @@
     icpsr: 21912
     ballotpedia: Jason Crow
     google_entity_id: kg:/g/11gzqdw_wg
-    pictorial: 12972
+    pictorial: 13542
   name:
     first: Jason
     last: Crow
@@ -29573,7 +29573,7 @@
     icpsr: 21931
     ballotpedia: Jahana Hayes
     google_entity_id: kg:/g/11cn8wstn6
-    pictorial: 12979
+    pictorial: 13549
   name:
     first: Jahana
     last: Hayes
@@ -29634,7 +29634,7 @@
     votesmart: 117248
     icpsr: 21971
     ballotpedia: Greg Steube
-    pictorial: 12998
+    pictorial: 13566
   name:
     first: W.
     middle: Gregory
@@ -29696,7 +29696,7 @@
     votesmart: 178538
     icpsr: 21944
     ballotpedia: Lucy McBath
-    pictorial: 13016
+    pictorial: 13583
   name:
     first: Lucy
     last: McBath
@@ -29757,7 +29757,7 @@
     votesmart: 33091
     icpsr: 21920
     ballotpedia: Russ Fulcher
-    pictorial: 13031
+    pictorial: 13599
   name:
     first: Russ
     last: Fulcher
@@ -29881,7 +29881,7 @@
     google_entity_id: kg:/g/11hc_0775g
     ballotpedia: Sean Casten
     votesmart: 176982
-    pictorial: 13038
+    pictorial: 13606
   name:
     first: Sean
     last: Casten
@@ -29941,7 +29941,7 @@
     votesmart: 177001
     icpsr: 21979
     google_entity_id: kg:/g/11gfm73_1z
-    pictorial: 13046
+    pictorial: 13614
   name:
     first: Lauren
     last: Underwood
@@ -30002,7 +30002,7 @@
     icpsr: 21903
     ballotpedia: James Baird
     google_entity_id: kg:/g/11gfd5wndr
-    pictorial: 13053
+    pictorial: 13621
   name:
     first: James
     middle: R.
@@ -30064,7 +30064,7 @@
     ballotpedia: Sharice Davids
     icpsr: 21914
     google_entity_id: kg:/g/11fgm1fq16
-    pictorial: 13061
+    pictorial: 13629
   name:
     first: Sharice
     last: Davids
@@ -30125,7 +30125,7 @@
     icpsr: 21977
     ballotpedia: Lori Trahan
     google_entity_id: kg:/g/11gtcg496z
-    pictorial: 13077
+    pictorial: 13645
   name:
     first: Lori
     last: Trahan
@@ -30186,7 +30186,7 @@
     votesmart: 122700
     icpsr: 21955
     ballotpedia: Ayanna Pressley
-    pictorial: 13081
+    pictorial: 13649
   name:
     first: Ayanna
     last: Pressley
@@ -30311,7 +30311,7 @@
     ballotpedia: Haley Stevens
     icpsr: 21972
     google_entity_id: kg:/g/11fjw095g8
-    pictorial: 13104
+    pictorial: 13672
   name:
     first: Haley
     middle: M.
@@ -30373,7 +30373,7 @@
     votesmart: 105368
     icpsr: 21975
     ballotpedia: Rashida Tlaib
-    pictorial: 13105
+    pictorial: 13673
   name:
     first: Rashida
     last: Tlaib
@@ -30434,7 +30434,7 @@
     ballotpedia: Angie Craig
     icpsr: 21910
     google_entity_id: kg:/g/11fjb43ny7
-    pictorial: 13108
+    pictorial: 13676
   name:
     first: Angie
     last: Craig
@@ -30495,7 +30495,7 @@
     icpsr: 21950
     ballotpedia: Ilhan Omar
     google_entity_id: kg:/g/11c4wx5dm0
-    pictorial: 13111
+    pictorial: 13679
   name:
     first: Ilhan
     last: Omar
@@ -30556,7 +30556,7 @@
     icpsr: 21969
     ballotpedia: Pete Stauber
     google_entity_id: kg:/g/11gjy6v3nv
-    pictorial: 13114
+    pictorial: 13682
   name:
     first: Pete
     last: Stauber
@@ -30616,7 +30616,7 @@
     icpsr: 21927
     google_entity_id: kg:/g/11fjx_n80p
     ballotpedia: Michael Guest
-    pictorial: 13126
+    pictorial: 13694
   name:
     first: Michael
     last: Guest
@@ -30677,7 +30677,7 @@
     icpsr: 21951
     votesmart: 42635
     ballotpedia: Chris Pappas
-    pictorial: 13148
+    pictorial: 13716
   name:
     first: Chris
     last: Pappas
@@ -30738,7 +30738,7 @@
     votesmart: 24685
     icpsr: 21980
     ballotpedia: Jeff Van Drew
-    pictorial: 13151
+    pictorial: 13719
   name:
     first: Jefferson
     last: Van Drew
@@ -30808,7 +30808,7 @@
     google_entity_id: kg:/g/11f730yxds
     ballotpedia: Andrew Kim (New Jersey)
     votesmart: 179640
-    pictorial: 13152
+    pictorial: 14022
   name:
     first: Andy
     last: Kim
@@ -30882,7 +30882,7 @@
     icpsr: 21938
     ballotpedia: Susie Lee
     google_entity_id: kg:/g/11gtdntn1_
-    pictorial: 13167
+    pictorial: 13735
   name:
     first: Susie
     last: Lee
@@ -30943,7 +30943,7 @@
     ballotpedia: Alexandria Ocasio-Cortez
     icpsr: 21949
     google_entity_id: kg:/g/11f6y3nqg6
-    pictorial: 13182
+    pictorial: 13750
   name:
     first: Alexandria
     last: Ocasio-Cortez
@@ -31004,7 +31004,7 @@
     votesmart: 136484
     icpsr: 21915
     ballotpedia: Madeleine Dean
-    pictorial: 13224
+    pictorial: 13792
   name:
     first: Madeleine
     last: Dean
@@ -31065,7 +31065,7 @@
     ballotpedia: Chrissy Houlahan
     icpsr: 21934
     google_entity_id: kg:/g/11fghyq4ym
-    pictorial: 13226
+    pictorial: 13794
   name:
     first: Chrissy
     last: Houlahan
@@ -31126,7 +31126,7 @@
     votesmart: 102438
     icpsr: 21945
     ballotpedia: Dan Meuser
-    pictorial: 13229
+    pictorial: 13797
   name:
     first: Daniel
     last: Meuser
@@ -31187,7 +31187,7 @@
     google_entity_id: kg:/g/11fgkqqf2l
     ballotpedia: John Joyce (Pennsylvania)
     votesmart: 178911
-    pictorial: 13233
+    pictorial: 13801
   name:
     first: John
     last: Joyce
@@ -31248,7 +31248,7 @@
     votesmart: 166004
     icpsr: 21956
     ballotpedia: Guy Reschenthaler
-    pictorial: 13234
+    pictorial: 13802
   name:
     first: Guy
     last: Reschenthaler
@@ -31309,7 +31309,7 @@
     votesmart: 168923
     icpsr: 21974
     ballotpedia: William Timmons
-    pictorial: 13244
+    pictorial: 13812
   name:
     first: William
     middle: R.
@@ -31371,7 +31371,7 @@
     icpsr: 21935
     ballotpedia: Dusty Johnson
     google_entity_id: kg:/g/11dyzlcnbr
-    pictorial: 13248
+    pictorial: 13816
   name:
     first: Dusty
     last: Johnson
@@ -31432,7 +31432,7 @@
     votesmart: 24379
     icpsr: 21905
     ballotpedia: Tim Burchett
-    pictorial: 13250
+    pictorial: 13818
   name:
     first: Tim
     last: Burchett
@@ -31493,7 +31493,7 @@
     icpsr: 21959
     ballotpedia: John Rose (Tennessee)
     google_entity_id: kg:/g/11g8xhg1mz
-    pictorial: 13254
+    pictorial: 13822
   name:
     first: John
     middle: W.
@@ -31555,7 +31555,7 @@
     votesmart: 177270
     icpsr: 21911
     ballotpedia: Daniel Crenshaw
-    pictorial: 13259
+    pictorial: 13827
   name:
     first: Dan
     last: Crenshaw
@@ -31616,7 +31616,7 @@
     votesmart: 177282
     icpsr: 21925
     ballotpedia: Lance Gooden
-    pictorial: 13262
+    pictorial: 13830
   name:
     first: Lance
     last: Gooden
@@ -31677,7 +31677,7 @@
     ballotpedia: Lizzie Pannill Fletcher
     icpsr: 21919
     google_entity_id: kg:/g/11gzqssv7p
-    pictorial: 13264
+    pictorial: 13832
   name:
     first: Lizzie
     last: Fletcher
@@ -31738,7 +31738,7 @@
     icpsr: 21917
     ballotpedia: Veronica Escobar
     google_entity_id: kg:/g/11ghdw9g9p
-    pictorial: 13273
+    pictorial: 13841
   name:
     first: Veronica
     last: Escobar
@@ -31799,7 +31799,7 @@
     icpsr: 21961
     ballotpedia: Chip Roy
     google_entity_id: kg:/g/11fghyq4y1
-    pictorial: 13278
+    pictorial: 13846
   name:
     first: Chip
     last: Roy
@@ -31860,7 +31860,7 @@
     votesmart: 49734
     icpsr: 21922
     ballotpedia: Sylvia Garcia
-    pictorial: 13286
+    pictorial: 13854
   name:
     first: Sylvia
     middle: R.
@@ -31922,7 +31922,7 @@
     votesmart: 50959
     icpsr: 21908
     ballotpedia: Ben Cline
-    pictorial: 13304
+    pictorial: 13873
   name:
     first: Ben
     last: Cline
@@ -31983,7 +31983,7 @@
     icpsr: 21962
     ballotpedia: Kim Schrier
     google_entity_id: kg:/g/11fk1mqvq7
-    pictorial: 13319
+    pictorial: 13888
   name:
     first: Kim
     last: Schrier
@@ -32044,7 +32044,7 @@
     ballotpedia: Bryan Steil
     google_entity_id: kg:/g/11fhnfybnd
     votesmart: 181289
-    pictorial: 13322
+    pictorial: 13891
   name:
     first: Bryan
     last: Steil
@@ -32105,7 +32105,7 @@
     votesmart: 52123
     icpsr: 21946
     ballotpedia: Carol Miller (West Virginia)
-    pictorial: 13330
+    pictorial: 13899
   name:
     first: Carol
     middle: D.
@@ -32168,7 +32168,7 @@
     google_entity_id: kg:/m/0btx2g
     votesmart: 124204
     icpsr: 41903
-    pictorial: 13391
+    pictorial: 13959
   name:
     first: Rick
     last: Scott
@@ -32215,7 +32215,7 @@
     google_entity_id: kg:/g/11bwy_95zy
     votesmart: 169716
     icpsr: 41901
-    pictorial: 13427
+    pictorial: 13996
   name:
     first: Joshua
     nickname: Josh
@@ -32261,7 +32261,7 @@
     icpsr: 21923
     ballotpedia: Jared Golden
     google_entity_id: kg:/g/11f1224576
-    pictorial: 13093
+    pictorial: 13661
   name:
     first: Jared
     middle: Forrest
@@ -32323,7 +32323,7 @@
     icpsr: 21987
     google_entity_id: kg:/g/11clyw935r
     votesmart: 166135
-    pictorial: 13132
+    pictorial: 13700
   name:
     first: Gregory
     middle: Francis
@@ -32388,7 +32388,7 @@
     wikipedia: Kweisi Mfume
     wikidata: Q519504
     google_entity_id: kg:/m/04znp2
-    pictorial: 13090
+    pictorial: 13658
     votesmart: 26892
     ballotpedia: Kweisi Mfume
   name:
@@ -32477,7 +32477,7 @@
     wikipedia: Tom Tiffany
     wikidata: Q7817838
     ballotpedia: Tom Tiffany
-    pictorial: 13328
+    pictorial: 13897
   name:
     first: Thomas
     middle: P.
@@ -32673,7 +32673,7 @@
     icpsr: 20107
     wikidata: Q1166592
     google_entity_id: kg:/m/01r7wc
-    pictorial: 12962
+    pictorial: 13532
   name:
     first: Darrell
     last: Issa
@@ -32816,7 +32816,7 @@
     house_history: 21446
     wikidata: Q437852
     google_entity_id: kg:/m/03v39l
-    pictorial: 13274
+    pictorial: 13842
   name:
     first: Pete
     middle: A.
@@ -32970,7 +32970,7 @@
     icpsr: 21307
     wikidata: Q3528567
     google_entity_id: kg:/m/0g55rlx
-    pictorial: 12936
+    pictorial: 13506
   name:
     first: David
     last: Valadao
@@ -33164,7 +33164,7 @@
     wikipedia: Barry Moore (American politician)
     google_entity_id: kg:/g/11fkw7vjdf
     ballotpedia: Barry Moore (Alabama)
-    pictorial: 12895
+    pictorial: 13464
     votesmart: 121792
   name:
     first: Barry
@@ -33214,7 +33214,7 @@
     wikipedia: Jay Obernolte
     google_entity_id: kg:/m/02hpvtf
     ballotpedia: Jay Obernolte
-    pictorial: 12937
+    pictorial: 13507
     votesmart: 151831
   name:
     first: Jay
@@ -33265,7 +33265,7 @@
     wikipedia: Young Kim
     google_entity_id: kg:/m/012c98r4
     votesmart: 151787
-    pictorial: 12954
+    pictorial: 13524
     ballotpedia: Young Kim (California)
   name:
     first: Young
@@ -33315,7 +33315,7 @@
     wikidata: Q50825637
     wikipedia: Sara Jacobs
     google_entity_id: kg:/g/11ghs2x3tm
-    pictorial: 12965
+    pictorial: 13535
     votesmart: 179414
     ballotpedia: Sara Jacobs
   name:
@@ -33366,7 +33366,7 @@
     wikipedia: Lauren Boebert
     google_entity_id: kg:/g/11j2v06x6p
     ballotpedia: Lauren Boebert
-    pictorial: 12969
+    pictorial: 13540
     votesmart: 191290
   name:
     first: Lauren
@@ -33416,7 +33416,7 @@
     wikidata: Q98523243
     wikipedia: Kat Cammack
     google_entity_id: kg:/g/11fsp_lppx
-    pictorial: 12984
+    pictorial: 13553
   name:
     first: Katherine
     nickname: Kat
@@ -33465,7 +33465,7 @@
     wikidata: Q101198561
     wikipedia: Scott Franklin (politician)
     google_entity_id: kg:/g/11ft5hszwx
-    pictorial: 12999
+    pictorial: 13567
     votesmart: 191355
     ballotpedia: Scott Franklin
   name:
@@ -33517,7 +33517,7 @@
     wikipedia: Byron Donalds
     google_entity_id: kg:/g/11c1xk7pbn
     votesmart: 137655
-    pictorial: 13000
+    pictorial: 13568
     ballotpedia: Byron Donalds
   name:
     first: Byron
@@ -33619,7 +33619,7 @@
     wikipedia: María Elvira Salazar
     google_entity_id: kg:/g/1hb_g7r18
     votesmart: 182300
-    pictorial: 13008
+    pictorial: 13576
   name:
     first: Maria
     middle: Elvira
@@ -33669,7 +33669,7 @@
     wikipedia: Nikema Williams
     google_entity_id: kg:/g/11fctqx0jy
     ballotpedia: Nikema Williams
-    pictorial: 13014
+    pictorial: 13582
   name:
     first: Nikema
     middle: Natassha
@@ -33718,7 +33718,7 @@
     wikidata: Q102277679
     wikipedia: Andrew Clyde
     google_entity_id: kg:/g/11j32tm4v4
-    pictorial: 13018
+    pictorial: 13586
   name:
     first: Andrew
     middle: S.
@@ -33769,7 +33769,7 @@
     google_entity_id: kg:/g/11fjq_fl2t
     votesmart: 168783
     ballotpedia: Ashley Hinson
-    pictorial: 13028
+    pictorial: 13596
   name:
     first: Ashley
     last: Hinson
@@ -33819,7 +33819,7 @@
     google_entity_id: kg:/g/11fhm4wv8g
     votesmart: 103294
     ballotpedia: Mariannette Miller-Meeks
-    pictorial: 13027
+    pictorial: 13595
   name:
     first: Mariannette
     middle: Jane
@@ -33870,7 +33870,7 @@
     google_entity_id: kg:/m/05p06tx
     votesmart: 103301
     ballotpedia: Randy Feenstra
-    pictorial: 13030
+    pictorial: 13598
   name:
     first: Randy
     middle: L.
@@ -33919,7 +33919,7 @@
     wikidata: Q101204553
     wikipedia: Mary Miller (politician)
     google_entity_id: kg:/g/11fsd5mh_l
-    pictorial: 13047
+    pictorial: 13615
     votesmart: 187988
     ballotpedia: Mary Miller (Illinois)
   name:
@@ -33970,7 +33970,7 @@
     wikidata: Q96077897
     wikipedia: Frank J. Mrvan
     google_entity_id: kg:/g/11gtz3tlbh
-    pictorial: 13050
+    pictorial: 13618
   name:
     first: Frank
     middle: John
@@ -34020,7 +34020,7 @@
     wikipedia: Victoria Spartz
     google_entity_id: kg:/g/11h23hjb94
     votesmart: 178203
-    pictorial: 13054
+    pictorial: 13622
     ballotpedia: Victoria Spartz
   name:
     first: Victoria
@@ -34069,7 +34069,7 @@
     wikidata: Q48767554
     wikipedia: Tracey Mann
     google_entity_id: kg:/g/11hcbb5b38
-    pictorial: 13059
+    pictorial: 13627
   name:
     first: Tracey
     middle: Robert
@@ -34118,7 +34118,7 @@
     wikidata: Q101196632
     wikipedia: Jake Auchincloss
     google_entity_id: kg:/g/11f0xw2_p4
-    pictorial: 13078
+    pictorial: 13646
   name:
     first: Jake
     middle: Daniel
@@ -34168,7 +34168,7 @@
     wikipedia: Lisa McClain
     google_entity_id: kg:/g/11j1xf64qr
     ballotpedia: Lisa McClain
-    pictorial: 13102
+    pictorial: 13670
     votesmart: 191633
   name:
     first: Lisa
@@ -34223,7 +34223,7 @@
     wikipedia: Michelle Fischbach
     google_entity_id: kg:/m/063_kp4
     ballotpedia: Michelle Fischbach
-    pictorial: 13113
+    pictorial: 13681
     votesmart: 3882
   name:
     first: Michelle
@@ -34274,7 +34274,7 @@
     wikipedia: Deborah Ross (politician)
     google_entity_id: kg:/m/02b3x2
     ballotpedia: Deborah Ross
-    pictorial: 13131
+    pictorial: 13699
   name:
     first: Deborah
     middle: Koff
@@ -34323,7 +34323,7 @@
     wikidata: Q96054905
     wikipedia: Teresa Leger Fernandez
     google_entity_id: kg:/g/11h_x7n8f5
-    pictorial: 13164
+    pictorial: 13732
   name:
     first: Teresa
     last: Leger Fernandez
@@ -34371,7 +34371,7 @@
     wikidata: Q21257859
     wikipedia: Andrew Garbarino
     google_entity_id: kg:/g/11bw8f4j8q
-    pictorial: 13170
+    pictorial: 13738
   name:
     first: Andrew
     middle: R.
@@ -34420,7 +34420,7 @@
     wikidata: Q7030112
     wikipedia: Nicole Malliotakis
     google_entity_id: kg:/m/0g5817m
-    pictorial: 13179
+    pictorial: 13747
   name:
     first: Nicole
     last: Malliotakis
@@ -34469,7 +34469,7 @@
     wikipedia: Ritchie Torres
     google_entity_id: kg:/m/0x11h9s
     ballotpedia: Ritchie Torres
-    pictorial: 13183
+    pictorial: 13751
     votesmart: 161718
   name:
     first: Ritchie
@@ -34520,7 +34520,7 @@
     wikipedia: Stephanie Bice
     google_entity_id: kg:/g/11h2hmkrv8
     ballotpedia: Stephanie Bice
-    pictorial: 13214
+    pictorial: 13782
   name:
     first: Stephanie
     middle: I.
@@ -34569,7 +34569,7 @@
     wikidata: Q5132536
     wikipedia: Cliff Bentz
     google_entity_id: kg:/m/0gfdsjb
-    pictorial: 13216
+    pictorial: 13784
   name:
     first: Cliff
     middle: Stewart
@@ -34620,7 +34620,7 @@
     wikipedia: Nancy Mace
     google_entity_id: kg:/m/048nls
     ballotpedia: Nancy Mace
-    pictorial: 13241
+    pictorial: 13809
     votesmart: 146076
   name:
     first: Nancy
@@ -34670,7 +34670,7 @@
     wikidata: Q101197341
     wikipedia: Diana Harshbarger
     google_entity_id: kg:/g/11f67z977k
-    pictorial: 13249
+    pictorial: 13817
     votesmart: 190524
     ballotpedia: Diana Harshbarger
   name:
@@ -34720,7 +34720,7 @@
     wikidata: Q16196923
     wikipedia: Pat Fallon
     google_entity_id: kg:/m/0100nvdw
-    pictorial: 13261
+    pictorial: 13829
   name:
     first: Patrick
     middle: Edward
@@ -34770,7 +34770,7 @@
     wikidata: Q101196462
     wikipedia: August Pfluger
     google_entity_id: kg:/g/11f3szpd4x
-    pictorial: 13268
+    pictorial: 13836
   name:
     first: August
     middle: Lee
@@ -34821,7 +34821,7 @@
     wikipedia: Ronny Jackson
     google_entity_id: kg:/g/11gfhx0vbg
     ballotpedia: Ronny Jackson
-    pictorial: 13270
+    pictorial: 13838
     votesmart: 188325
   name:
     first: Ronny
@@ -34873,7 +34873,7 @@
     google_entity_id: kg:/g/11c580_xf2
     votesmart: 188334
     ballotpedia: Troy Nehls
-    pictorial: 13279
+    pictorial: 13847
   name:
     first: Troy
     middle: E.
@@ -34922,7 +34922,7 @@
     wikidata: Q104648170
     google_entity_id: kg:/g/11fs52clcr
     wikipedia: Tony Gonzales
-    pictorial: 13280
+    pictorial: 13848
   name:
     first: Ernest
     middle: Anthony
@@ -34974,7 +34974,7 @@
     google_entity_id: kg:/m/0k1c6d8
     votesmart: 79150
     ballotpedia: Beth Van Duyne
-    pictorial: 13281
+    pictorial: 13849
   name:
     first: Beth
     middle: Ann
@@ -35023,7 +35023,7 @@
     wikidata: Q101196971
     wikipedia: Blake Moore
     google_entity_id: kg:/g/11ftchfsgn
-    pictorial: 13296
+    pictorial: 13864
   name:
     first: Blake
     middle: David
@@ -35073,7 +35073,7 @@
     wikipedia: Burgess Owens
     google_entity_id: kg:/m/0286z2f
     ballotpedia: Burgess Owens
-    pictorial: 13299
+    pictorial: 13867
     votesmart: 191166
   name:
     first: Clarence
@@ -35123,7 +35123,7 @@
     wikidata: Q1898180
     wikipedia: Marilyn Strickland
     google_entity_id: kg:/m/0bhb38l
-    pictorial: 13321
+    pictorial: 13890
   name:
     first: Marilyn
     last: Strickland
@@ -35172,7 +35172,7 @@
     wikipedia: Scott Fitzgerald (politician)
     google_entity_id: kg:/m/03nvqsc
     votesmart: 3446
-    pictorial: 13326
+    pictorial: 13895
   name:
     first: Scott
     middle: L.
@@ -35367,7 +35367,7 @@
     cspan: 103481
     icpsr: 21749
     ballotpedia: Claudia Tenney
-    pictorial: 13192
+    pictorial: 13760
   name:
     first: Claudia
     last: Tenney
@@ -35427,7 +35427,7 @@
     ballotpedia: Julia Letlow
     google_entity_id: kg:/g/11qq9ggdyw
     votesmart: 195745
-    pictorial: 13073
+    pictorial: 13641
   name:
     first: Julia
     last: Letlow
@@ -35475,7 +35475,7 @@
     wikipedia: Troy Carter (politician)
     wikidata: Q7846787
     ballotpedia: Troy Carter
-    pictorial: 13070
+    pictorial: 13638
     votesmart: 35462
   name:
     first: Troy
@@ -35527,7 +35527,7 @@
     ballotpedia: Melanie Ann Stansbury
     votesmart: 180789
     google_entity_id: kg:/g/11f_jwp_yr
-    pictorial: 13162
+    pictorial: 13730
   name:
     first: Melanie
     middle: Ann
@@ -35577,7 +35577,7 @@
     wikidata: Q105061782
     ballotpedia: Jake Ellzey
     google_entity_id: kg:/g/11f0lw2cdc
-    pictorial: 13263
+    pictorial: 13831
   name:
     first: Jake
     last: Ellzey
@@ -35624,7 +35624,7 @@
     opensecrets: N00047875
     wikipedia: Shontel Brown
     wikidata: Q107863952
-    pictorial: 13205
+    pictorial: 13773
     google_entity_id: kg:/g/11pqpwbhlx
   name:
     first: Shontel
@@ -35673,7 +35673,7 @@
     opensecrets: N00048568
     wikipedia: Mike Carey (politician)
     wikidata: Q108010312
-    pictorial: 13209
+    pictorial: 13777
     ballotpedia: Mike Carey (Ohio)
     google_entity_id: kg:/g/11q1q1bh32
   name:
@@ -35722,7 +35722,7 @@
     opensecrets: N00043504
     wikipedia: Sheila Cherfilus-McCormick
     wikidata: Q109560948
-    pictorial: 13001
+    pictorial: 13569
     google_entity_id: kg:/g/11j8p2mk08
   name:
     first: Sheila
@@ -35772,7 +35772,7 @@
     wikidata: Q6846855
     ballotpedia: Mike Flood
     votesmart: 41983
-    pictorial: 13145
+    pictorial: 13713
   name:
     first: Mike
     last: Flood
@@ -35820,7 +35820,7 @@
     wikidata: Q111159803
     ballotpedia: Brad Finstad
     votesmart: 38612
-    pictorial: 13107
+    pictorial: 13675
     google_entity_id: kg:/g/11fyyvmqc6
   name:
     first: Brad
@@ -35871,7 +35871,7 @@
     ballotpedia: Pat Ryan (New York)
     google_entity_id: kg:/g/11f892sjry
     votesmart: 180314
-    pictorial: 13186
+    pictorial: 13754
   name:
     first: Patrick
     last: Ryan
@@ -35919,7 +35919,7 @@
     wikipedia: Rudy Yakym
     wikidata: Q115137719
     ballotpedia: Rudy Yakym
-    pictorial: 13051
+    pictorial: 13619
     google_entity_id: kg:/g/11t8khyc8f
   name:
     first: Rudy
@@ -35972,7 +35972,7 @@
     wikipedia: Ryan Zinke
     google_entity_id: kg:/m/0gkz1jg
     votesmart: 104073
-    pictorial: 13128
+    pictorial: 13696
   name:
     first: Ryan
     last: Zinke
@@ -36132,7 +36132,7 @@
     wikidata: Q115137374
     wikipedia: Dale Strong
     votesmart: 81485
-    pictorial: 12898
+    pictorial: 13468
     ballotpedia: Dale Strong
     google_entity_id: kg:/g/11pwq013g6
   name:
@@ -36173,7 +36173,7 @@
     wikipedia: Eli Crane
     ballotpedia: Eli Crane
     votesmart: 205885
-    pictorial: 12907
+    pictorial: 13477
     google_entity_id: kg:/g/11q8yhkkg8
   name:
     first: Eli
@@ -36212,7 +36212,7 @@
     wikidata: Q115220916
     wikipedia: Juan Ciscomani
     votesmart: 106728
-    pictorial: 12911
+    pictorial: 13481
     ballotpedia: Juan Ciscomani
     google_entity_id: kg:/g/11rwlm4mv5
   name:
@@ -36255,7 +36255,7 @@
     google_entity_id: kg:/g/11c5qpst__
     votesmart: 169303
     ballotpedia: Kevin Kiley
-    pictorial: 12917
+    pictorial: 13487
   name:
     first: Kevin
     middle: Patrick
@@ -36294,7 +36294,7 @@
     wikidata: Q6397046
     wikipedia: Kevin Mullin
     votesmart: 105586
-    pictorial: 12929
+    pictorial: 13499
     ballotpedia: Kevin Mullin (California)
   name:
     first: Kevin
@@ -36334,7 +36334,7 @@
     wikipedia: Sydney Kamlager-Dove
     ballotpedia: Sydney Kamlager-Dove
     votesmart: 178079
-    pictorial: 12951
+    pictorial: 13521
   name:
     first: Sydney
     middle: Kai
@@ -36373,7 +36373,7 @@
     wikidata: Q16204904
     wikipedia: Robert Garcia (California congressman)
     votesmart: 29749
-    pictorial: 12956
+    pictorial: 13526
     ballotpedia: Robert Garcia (California)
   name:
     first: Robert
@@ -36413,7 +36413,7 @@
     wikidata: Q16734469
     wikipedia: Brittany Pettersen
     votesmart: 138744
-    pictorial: 12973
+    pictorial: 13543
   name:
     first: Brittany
     middle: Louise
@@ -36452,7 +36452,7 @@
     wikidata: Q4661833
     wikipedia: Aaron Bean
     votesmart: 53932
-    pictorial: 12985
+    pictorial: 13554
     ballotpedia: Aaron Bean
   name:
     first: Aaron
@@ -36492,7 +36492,7 @@
     wikidata: Q115137377
     wikipedia: Cory Mills
     votesmart: 209085
-    pictorial: 12988
+    pictorial: 13556
     google_entity_id: kg:/g/11lkx217y6
   name:
     first: Cory
@@ -36532,7 +36532,7 @@
     wikipedia: Maxwell Frost
     google_entity_id: kg:/g/11p01k7h4b
     votesmart: 209096
-    pictorial: 12991
+    pictorial: 13559
   name:
     first: Maxwell
     middle: Alejandro
@@ -36572,7 +36572,7 @@
     wikipedia: Anna Paulina Luna
     votesmart: 191344
     ballotpedia: Anna Paulina Luna
-    pictorial: 12994
+    pictorial: 13562
     google_entity_id: kg:/g/11t46lj9rw
   name:
     first: Anna
@@ -36613,7 +36613,7 @@
     wikipedia: Laurel Lee
     google_entity_id: kg:/g/11h3cbjvc3
     votesmart: 186114
-    pictorial: 12996
+    pictorial: 13564
   name:
     first: Laurel
     middle: Frances
@@ -36652,7 +36652,7 @@
     wikidata: Q16221073
     wikipedia: Jared Moskowitz
     votesmart: 138155
-    pictorial: 13004
+    pictorial: 13572
   name:
     first: Jared
     middle: Evan
@@ -36691,7 +36691,7 @@
     wikidata: Q115474083
     wikipedia: Rich McCormick
     votesmart: 189765
-    pictorial: 13015
+    pictorial: 13584
     google_entity_id: kg:/g/11h4hhl04s
   name:
     first: Rich
@@ -36731,7 +36731,7 @@
     wikipedia: Mike Collins (politician)
     votesmart: 151225
     wikidata: Q115806750
-    pictorial: 13019
+    pictorial: 13587
     google_entity_id: kg:/g/11nnr438zm
   name:
     first: Mike
@@ -36772,7 +36772,7 @@
     wikidata: Q114108969
     wikipedia: James Moylan
     ballotpedia: James Moylan
-    pictorial: 13024
+    pictorial: 13592
     google_entity_id: kg:/g/11kl4fdd3q
   name:
     first: James (Jim)
@@ -36812,7 +36812,7 @@
     wikidata: Q13562293
     wikipedia: Jill Tokuda
     votesmart: 68493
-    pictorial: 13026
+    pictorial: 13594
     ballotpedia: Jill Tokuda
   name:
     first: Jill
@@ -36853,7 +36853,7 @@
     wikipedia: Zach Nunn
     votesmart: 151170
     ballotpedia: Zach Nunn
-    pictorial: 13029
+    pictorial: 13597
     google_entity_id: kg:/g/11c1njl2m9
   name:
     first: Zachary (Zach)
@@ -36893,7 +36893,7 @@
     wikidata: Q6273473
     wikipedia: Jonathan Jackson (Illinois politician)
     votesmart: 204284
-    pictorial: 13033
+    pictorial: 13601
     ballotpedia: Jonathan Jackson (Illinois)
   name:
     first: Jonathan
@@ -36934,7 +36934,7 @@
     wikipedia: Delia Ramirez
     google_entity_id: kg:/g/11fgm72s6f
     votesmart: 177128
-    pictorial: 13035
+    pictorial: 13603
     ballotpedia: Delia Ramirez
   name:
     first: Delia
@@ -36974,7 +36974,7 @@
     wikidata: Q111342337
     wikipedia: Nikki Budzinski
     votesmart: 204328
-    pictorial: 13045
+    pictorial: 13613
     google_entity_id: kg:/g/11rxhx_k14
   name:
     first: Nicole (Nikki)
@@ -37014,7 +37014,7 @@
     wikidata: Q115182513
     wikipedia: Eric Sorensen (politician)
     votesmart: 204339
-    pictorial: 13049
+    pictorial: 13617
     google_entity_id: kg:/g/11pd33ph93
   name:
     first: Eric
@@ -37054,7 +37054,7 @@
     wikipedia: Erin Houchin
     google_entity_id: kg:/g/11b81xpwnd
     votesmart: 149614
-    pictorial: 13058
+    pictorial: 13626
   name:
     first: Erin
     middle: Suzanne
@@ -37093,7 +37093,7 @@
     wikidata: Q16732298
     wikipedia: Morgan McGarvey
     votesmart: 139826
-    pictorial: 13065
+    pictorial: 13633
   name:
     first: Morgan
     last: McGarvey
@@ -37132,7 +37132,7 @@
     wikipedia: Glenn Ivey
     google_entity_id: kg:/g/11bxfgrf12
     votesmart: 166279
-    pictorial: 13087
+    pictorial: 13655
   name:
     first: Glenn
     middle: Frederick
@@ -37171,7 +37171,7 @@
     wikidata: Q115137368
     wikipedia: Hillary Scholten
     votesmart: 191584
-    pictorial: 13096
+    pictorial: 13664
     google_entity_id: kg:/g/11j2tyrlxq
   name:
     first: Hillary
@@ -37213,7 +37213,7 @@
     google_entity_id: kg:/g/11f7r6ft_j
     ballotpedia: John James (Michigan)
     votesmart: 181062
-    pictorial: 13103
+    pictorial: 13671
   name:
     first: John
     middle: Edwards
@@ -37253,7 +37253,7 @@
     wikipedia: Shri Thanedar
     ballotpedia: Shri Thanedar
     votesmart: 182346
-    pictorial: 13106
+    pictorial: 13674
   name:
     first: Shri
     last: Thanedar
@@ -37291,7 +37291,7 @@
     wikidata: Q115137637
     wikipedia: Mark Alford (politician)
     votesmart: 205858
-    pictorial: 13118
+    pictorial: 13686
   name:
     first: Mark
     middle: Allen
@@ -37331,7 +37331,7 @@
     wikipedia: Eric Burlison
     votesmart: 104635
     ballotpedia: Eric Burlison
-    pictorial: 13121
+    pictorial: 13689
   name:
     first: Eric
     middle: Wayne
@@ -37370,7 +37370,7 @@
     wikidata: Q115137554
     wikipedia: Mike Ezell
     votesmart: 202526
-    pictorial: 13127
+    pictorial: 13695
     google_entity_id: kg:/g/11nfmh8y4w
   name:
     first: Mike
@@ -37409,7 +37409,7 @@
     wikidata: Q5294403
     wikipedia: Don Davis (North Carolina politician)
     votesmart: 102950
-    pictorial: 13130
+    pictorial: 13698
     ballotpedia: Donald Davis
   name:
     first: Donald
@@ -37449,7 +37449,7 @@
     wikidata: Q16729064
     wikipedia: Valerie Foushee
     votesmart: 93091
-    pictorial: 13133
+    pictorial: 13701
   name:
     first: Valerie
     middle: Jean
@@ -37489,7 +37489,7 @@
     wikipedia: Chuck Edwards
     google_entity_id: kg:/g/11ghxw1t29
     votesmart: 166600
-    pictorial: 13140
+    pictorial: 13708
   name:
     first: Charles (Chuck)
     middle: Marion
@@ -37529,7 +37529,7 @@
     wikipedia: Thomas Kean Jr.
     ballotpedia: Thomas Kean Jr.
     votesmart: 43250
-    pictorial: 13156
+    pictorial: 13724
   name:
     first: Thomas
     middle: Howard
@@ -37569,7 +37569,7 @@
     wikidata: Q115137457
     wikipedia: Rob Menendez
     votesmart: 205678
-    pictorial: 13157
+    pictorial: 13725
     ballotpedia: Rob Menendez (New Jersey)
     google_entity_id: kg:/g/11snp9md7d
   name:
@@ -37611,7 +37611,7 @@
     wikipedia: Gabe Vasquez
     votesmart: 201740
     opensecrets: N00049142
-    pictorial: 13163
+    pictorial: 13731
     ballotpedia: Gabriel Vasquez
     google_entity_id: kg:/g/11fyycr8z5
   name:
@@ -37651,7 +37651,7 @@
     wikidata: Q115168182
     wikipedia: Nick LaLota
     votesmart: 191957
-    pictorial: 13169
+    pictorial: 13737
   name:
     first: Nicolas
     middle: Joseph
@@ -37691,7 +37691,7 @@
     wikipedia: Dan Goldman
     google_entity_id: kg:/g/11j0y32d4c
     votesmart: 208627
-    pictorial: 13178
+    pictorial: 13746
     ballotpedia: Daniel Goldman
   name:
     first: Dan
@@ -37732,7 +37732,7 @@
     wikipedia: Mike Lawler
     google_entity_id: kg:/g/11qwsdzzd6
     votesmart: 192271
-    pictorial: 13185
+    pictorial: 13753
   name:
     first: Michael
     middle: Vincent
@@ -37772,7 +37772,7 @@
     wikipedia: Nick Langworthy
     google_entity_id: kg:/g/11g119yyj8
     votesmart: 208663
-    pictorial: 13191
+    pictorial: 13759
   name:
     first: Nicholas
     middle: A.
@@ -37812,7 +37812,7 @@
     wikipedia: Greg Landsman
     votesmart: 186237
     google_entity_id: kg:/g/11rn585y5q
-    pictorial: 13195
+    pictorial: 13763
   name:
     first: Greg
     middle: John
@@ -37851,7 +37851,7 @@
     wikidata: Q106522145
     wikipedia: Max Miller (politician)
     votesmart: 206947
-    pictorial: 13201
+    pictorial: 13769
     google_entity_id: kg:/g/11gtz3n8gr
   name:
     first: Max
@@ -37891,7 +37891,7 @@
     wikidata: Q18637943
     wikipedia: Emilia Sykes
     votesmart: 152164
-    pictorial: 13207
+    pictorial: 13775
   name:
     first: Emilia
     middle: Strong
@@ -37930,7 +37930,7 @@
     wikidata: Q6288704
     wikipedia: Josh Brecheen
     votesmart: 124973
-    pictorial: 13211
+    pictorial: 13779
     ballotpedia: Josh Brecheen
   name:
     first: Josh
@@ -37971,7 +37971,7 @@
     wikipedia: Val Hoyle
     votesmart: 116336
     ballotpedia: Val Hoyle
-    pictorial: 13218
+    pictorial: 13786
   name:
     first: Valerie
     middle: Anne
@@ -38012,7 +38012,7 @@
     wikipedia: Andrea Salinas
     google_entity_id: kg:/g/11fyzcn4zd
     votesmart: 178196
-    pictorial: 13220
+    pictorial: 13788
     ballotpedia: Andrea Salinas
   name:
     first: Andrea
@@ -38054,7 +38054,7 @@
     google_entity_id: kg:/g/11f8p2q8bd
     ballotpedia: Summer Lee
     votesmart: 179240
-    pictorial: 13232
+    pictorial: 13800
   name:
     first: Summer
     middle: Lynn
@@ -38093,7 +38093,7 @@
     wikidata: Q115181700
     wikipedia: Chris Deluzio
     votesmart: 202954
-    pictorial: 13237
+    pictorial: 13805
     google_entity_id: kg:/g/11qgyjrb66
   name:
     first: Chris
@@ -38133,7 +38133,7 @@
     wikidata: Q16222460
     wikipedia: Seth Magaziner
     votesmart: 154457
-    pictorial: 13240
+    pictorial: 13808
     ballotpedia: Seth Magaziner
   name:
     first: Seth
@@ -38174,7 +38174,7 @@
     wikipedia: Russell Fry (politician)
     google_entity_id: kg:/g/11f0r9q6_r
     votesmart: 157265
-    pictorial: 13247
+    pictorial: 13815
   name:
     first: Russell
     middle: William
@@ -38214,7 +38214,7 @@
     wikipedia: Andy Ogles
     votesmart: 48673
     ballotpedia: Andy Ogles
-    pictorial: 13253
+    pictorial: 13821
     google_entity_id: kg:/g/11sw_sm6s3
   name:
     first: Andrew
@@ -38255,7 +38255,7 @@
     wikipedia: Nathaniel Moran
     votesmart: 79156
     ballotpedia: Nathaniel Moran
-    pictorial: 13258
+    pictorial: 13826
     google_entity_id: kg:/g/11sg_0fb9w
   name:
     first: Nathaniel
@@ -38297,7 +38297,7 @@
     votesmart: 97491
     ballotpedia: Keith Self
     google_entity_id: kg:/g/11s0s133nc
-    pictorial: 13260
+    pictorial: 13828
   name:
     first: Keith
     middle: Alan
@@ -38336,7 +38336,7 @@
     wikidata: Q115137460
     wikipedia: Morgan Luttrell
     votesmart: 200930
-    pictorial: 13265
+    pictorial: 13833
     google_entity_id: kg:/g/11rg60_s4f
   name:
     first: Morgan
@@ -38376,7 +38376,7 @@
     wikidata: Q115496109
     wikipedia: Monica De La Cruz
     votesmart: 188292
-    pictorial: 13272
+    pictorial: 13840
     ballotpedia: Monica De La Cruz
     google_entity_id: kg:/g/11j2j0jd0z
   name:
@@ -38417,7 +38417,7 @@
     wikipedia: Jasmine Crockett
     google_entity_id: kg:/g/11j90m9942
     votesmart: 188486
-    pictorial: 13287
+    pictorial: 13855
   name:
     first: Jasmine
     middle: Felicia
@@ -38457,7 +38457,7 @@
     wikipedia: Greg Casar
     google_entity_id: kg:/g/11fl9pbltx
     votesmart: 161953
-    pictorial: 13292
+    pictorial: 13860
   name:
     first: Gregorio
     middle: Eduardo
@@ -38497,7 +38497,7 @@
     wikipedia: Wesley Hunt
     votesmart: 188147
     ballotpedia: Wesley Hunt (Texas Congress)
-    pictorial: 13295
+    pictorial: 13863
     google_entity_id: kg:/g/11fs4rfr_9
   name:
     first: Wesley
@@ -38538,7 +38538,7 @@
     wikipedia: Jen Kiggans
     google_entity_id: kg:/g/11gbjlv65q
     votesmart: 186387
-    pictorial: 13301
+    pictorial: 13869
   name:
     first: Jennifer
     middle: Ann
@@ -38578,7 +38578,7 @@
     wikipedia: Becca Balint
     google_entity_id: kg:/g/11c1pdt17l
     votesmart: 154056
-    pictorial: 13311
+    pictorial: 13945
     ballotpedia: Becca Balint
   name:
     first: Becca
@@ -38620,7 +38620,7 @@
     google_entity_id: kg:/g/11rts0yhzk
     ballotpedia: Marie Gluesenkamp Perez
     votesmart: 207307
-    pictorial: 13314
+    pictorial: 13883
   name:
     first: Marie
     last: Gluesenkamp Perez
@@ -38660,7 +38660,7 @@
     google_entity_id: kg:/g/11j5bmd2d3
     ballotpedia: Derrick Van Orden
     votesmart: 192343
-    pictorial: 13324
+    pictorial: 13893
   name:
     first: Derrick
     middle: Francis
@@ -38701,7 +38701,7 @@
     google_entity_id: kg:/g/11f77yffzm
     ballotpedia: Harriet Hageman
     votesmart: 182961
-    pictorial: 13332
+    pictorial: 13901
   name:
     first: Harriet
     middle: Maxine
@@ -38789,7 +38789,7 @@
     wikidata: Q6178602
     ballotpedia: Jennifer McClellan
     votesmart: 58655
-    pictorial: 11624
+    pictorial: 13871
   name:
     first: Jennifer
     last: McClellan
@@ -38827,7 +38827,7 @@
     wikipedia: Gabe Amo
     wikidata: Q118901875
     ballotpedia: Gabe Amo
-    pictorial: 13239
+    pictorial: 13807
   name:
     first: Gabe
     last: Amo
@@ -38865,7 +38865,7 @@
     wikipedia: Celeste Maloy
     wikidata: Q119578731
     ballotpedia: Celeste Maloy
-    pictorial: 13297
+    pictorial: 13865
     votesmart: 212289
     google_entity_id: kg:/g/11svnq8sm0
   name:
@@ -38910,6 +38910,7 @@
     cspan: 104747
     icpsr: 21747
     ballotpedia: Tom Suozzi
+    pictorial: 13739
   name:
     first: Thomas
     middle: R.
@@ -38982,6 +38983,7 @@
     google_entity_id: kg:/m/0gx0k2c
     cspan: 134035
     ballotpedia: Timothy M. Kennedy
+    pictorial: 13762
   name:
     first: Timothy
     last: Kennedy
@@ -39021,6 +39023,7 @@
     ballotpedia: Vince Fong
     votesmart: 169357
     google_entity_id: kg:/g/11c2j7h04f
+    pictorial: 13504
   name:
     first: Vince
     last: Fong
@@ -39060,6 +39063,7 @@
     votesmart: 179016
     ballotpedia: Michael Rulli
     google_entity_id: kg:/g/11h6rxp1lx
+    pictorial: 13768
   name:
     first: Michael
     middle: A.
@@ -39100,6 +39104,7 @@
     votesmart: 186801
     ballotpedia: LaMonica McIver
     google_entity_id: kg:/g/11y4ln1tqy
+    pictorial: 13727
   name:
     first: LaMonica
     last: McIver
@@ -39139,6 +39144,7 @@
     wikidata: Q131033476
     ballotpedia: Tony Wied
     votesmart: 218131
+    pictorial: 13898
   name:
     first: Tony
     last: Wied
@@ -39179,6 +39185,7 @@
     icpsr: 29354
     wikidata: Q1100451
     google_entity_id: kg:/m/09930w
+    pictorial: 13642
   name:
     first: Cleo
     last: Fields
@@ -39226,6 +39233,7 @@
     house_history: 22629
     wikidata: Q1902106
     google_entity_id: kg:/m/06zk1_1
+    pictorial: 13620
   name:
     first: Marlin
     middle: A.
@@ -39303,6 +39311,7 @@
     icpsr: 21907
     ballotpedia: Gil Cisneros
     google_entity_id: kg:/g/11g0q_jx3m
+    pictorial: 13515
   name:
     first: Gilbert
     middle: Ray
@@ -39371,6 +39380,7 @@
     opensecrets: N00053174
     wikipedia: Tim Sheehy (American politician)
     wikidata: Q124433916
+    pictorial: 14024
   name:
     first: Tim
     middle: Patrick
@@ -39400,6 +39410,7 @@
     opensecrets: N00048437
     wikipedia: Bernie Moreno
     wikidata: Q124858476
+    pictorial: 14026
   name:
     first: Bernie
     last: Moreno
@@ -39428,6 +39439,7 @@
     opensecrets: N00050244
     wikipedia: Dave McCormick
     wikidata: Q5234544
+    pictorial: 13969
   name:
     first: Dave
     middle: Harold
@@ -39457,6 +39469,7 @@
     opensecrets: N00049408
     wikipedia: Nick Begich III
     wikidata: Q113676482
+    pictorial: 13463
   name:
     first: Nicholas
     middle: Joseph
@@ -39485,6 +39498,7 @@
     opensecrets: N00053909
     wikipedia: Shomari Figures
     wikidata: Q129431158
+    pictorial: 13465
   name:
     first: Shomari
     middle: Coleman
@@ -39512,6 +39526,7 @@
     opensecrets: N00052497
     wikipedia: Yassamin Ansari
     wikidata: Q122226202
+    pictorial: 13478
   name:
     first: Yassamin
     last: Ansari
@@ -39538,6 +39553,7 @@
     opensecrets: N00053795
     wikipedia: Abraham Hamadeh
     wikidata: Q124307977
+    pictorial: 13483
   name:
     first: Abraham
     middle: Jamal
@@ -39565,6 +39581,7 @@
     opensecrets: N00052195
     wikipedia: Lateefah Simon
     wikidata: Q6495426
+    pictorial: 13496
   name:
     first: Lateefah
     middle: Aaliyah
@@ -39592,6 +39609,7 @@
     opensecrets: N00050061
     wikipedia: Adam Gray
     wikidata: Q3000097
+    pictorial: 13497
   name:
     first: Adam
     middle: Channing
@@ -39619,6 +39637,7 @@
     opensecrets: N00054265
     wikipedia: Sam Liccardo
     wikidata: Q16731481
+    pictorial: 13500
   name:
     first: Sam
     middle: Theodore
@@ -39646,6 +39665,7 @@
     opensecrets: N00052205
     wikipedia: George T. Whitesides
     wikidata: Q3511804
+    pictorial: 13511
   name:
     first: George
     middle: Thomas
@@ -39673,6 +39693,7 @@
     opensecrets: N00054215
     wikipedia: Luz Rivas
     wikidata: Q54861699
+    pictorial: 13513
   name:
     first: Luz
     middle: Maria
@@ -39700,6 +39721,7 @@
     opensecrets: N00052209
     wikipedia: Laura Friedman
     wikidata: Q6498920
+    pictorial: 13514
   name:
     first: Laura
     middle: Syril
@@ -39727,6 +39749,7 @@
     opensecrets: N00053582
     wikipedia: Derek Tran
     wikidata: Q131339671
+    pictorial: 13529
   name:
     first: Derek
     middle: Truyen
@@ -39754,6 +39777,7 @@
     opensecrets: N00040866
     wikipedia: Dave Min
     wikidata: Q31213321
+    pictorial: 13531
   name:
     first: Dave
     middle: Kunnghee
@@ -39781,6 +39805,7 @@
     opensecrets: N00053367
     wikipedia: Jeff Hurd (politician)
     wikidata: Q131101500
+    pictorial: 13539
   name:
     first: Jeff
     middle: Stephen
@@ -39808,6 +39833,7 @@
     opensecrets: N00028132
     wikipedia: Jeff Crank
     wikidata: Q27663361
+    pictorial: 13541
   name:
     first: Jeff
     middle: George
@@ -39835,6 +39861,7 @@
     opensecrets: N00053312
     wikipedia: Gabe Evans
     wikidata: Q115458993
+    pictorial: 13544
   name:
     first: Gabe
     last: Evans
@@ -39861,6 +39888,7 @@
     opensecrets: N00052698
     wikipedia: Sarah McBride
     wikidata: Q17011236
+    pictorial: 13551
   name:
     first: Sarah
     middle: Elizabeth
@@ -39888,6 +39916,7 @@
     opensecrets: N00033076
     wikipedia: Mike Haridopolos
     wikidata: Q6847137
+    pictorial: 13557
   name:
     first: Mike
     middle: John
@@ -39915,6 +39944,7 @@
     opensecrets: N00055118
     wikipedia: Brian Jack
     wikidata: Q86493775
+    pictorial: 13580
   name:
     first: Brian
     middle: Timothy
@@ -39942,6 +39972,7 @@
     opensecrets: N00054651
     wikipedia: Jefferson Shreve
     wikidata: Q130979817
+    pictorial: 13623
   name:
     first: Jefferson
     middle: Scott
@@ -39969,6 +40000,7 @@
     opensecrets: N00054523
     wikipedia: Mark Messmer
     wikidata: Q6768869
+    pictorial: 13625
   name:
     first: Mark
     last: Messmer
@@ -39995,6 +40027,7 @@
     opensecrets: N00055179
     wikipedia: Derek Schmidt
     wikidata: Q5262335
+    pictorial: 13628
   name:
     first: Derek
     middle: Larkin
@@ -40022,6 +40055,7 @@
     opensecrets: N00054814
     wikipedia: Johnny Olszewski
     wikidata: Q6217866
+    pictorial: 13653
   name:
     first: Johnny
     middle: Anthony
@@ -40050,6 +40084,7 @@
     opensecrets: N00053710
     wikipedia: Sarah Elfreth
     wikidata: Q61970401
+    pictorial: 13654
   name:
     first: Sarah
     middle: Kelly
@@ -40077,6 +40112,7 @@
     opensecrets: N00053899
     wikipedia: April McClain-Delaney
     wikidata: Q125935301
+    pictorial: 13657
   name:
     first: April
     middle: Lynn
@@ -40104,6 +40140,7 @@
     opensecrets: N00049596
     wikipedia: Tom Barrett (Michigan politician)
     wikidata: Q18684588
+    pictorial: 13668
   name:
     first: Tom
     middle: More
@@ -40131,6 +40168,7 @@
     opensecrets: N00054163
     wikipedia: Kristen McDonald Rivet
     wikidata: Q115227000
+    pictorial: 13669
   name:
     first: Kristen
     middle: Lee
@@ -40158,6 +40196,7 @@
     opensecrets: N00053930
     wikipedia: Kelly Morrison
     wikidata: Q58416636
+    pictorial: 13677
   name:
     first: Kelly
     middle: Louise
@@ -40185,6 +40224,7 @@
     opensecrets: N00053042
     wikipedia: Wesley Bell
     wikidata: Q23806350
+    pictorial: 13683
   name:
     first: Wesley
     middle: Jonell-Cleavon
@@ -40213,6 +40253,7 @@
     opensecrets: N00030025
     wikipedia: Bob Onder
     wikidata: Q27064117
+    pictorial: 13685
   name:
     first: Robert
     middle: F.
@@ -40240,6 +40281,7 @@
     govtrack: 456999
     wikipedia: Kimberlyn King-Hinds
     wikidata: Q130942218
+    pictorial: 13691
   name:
     first: Kimberlyn
     middle: Kay
@@ -40267,6 +40309,7 @@
     opensecrets: N00041283
     wikipedia: Troy Downing
     wikidata: Q103158011
+    pictorial: 13697
   name:
     first: Troy
     middle: Bryan
@@ -40294,6 +40337,7 @@
     opensecrets: N00054055
     wikipedia: Addison McDowell
     wikidata: Q130979819
+    pictorial: 13703
   name:
     first: Addison
     middle: Parker
@@ -40322,6 +40366,7 @@
     opensecrets: N00035491
     wikipedia: Mark Harris (North Carolina politician)
     wikidata: Q55622212
+    pictorial: 13705
   name:
     first: Mark
     middle: Everette
@@ -40349,6 +40394,7 @@
     opensecrets: N00050144
     wikipedia: Pat Harrigan
     wikidata: Q131179069
+    pictorial: 13707
   name:
     first: Pat
     last: Harrigan
@@ -40375,6 +40421,7 @@
     opensecrets: N00053743
     wikipedia: Brad Knott
     wikidata: Q130979816
+    pictorial: 13710
   name:
     first: Brad
     last: Knott
@@ -40401,6 +40448,7 @@
     opensecrets: N00053948
     wikipedia: Tim Moore (North Carolina politician)
     wikidata: Q7804002
+    pictorial: 13711
   name:
     first: Tim
     middle: Keith
@@ -40428,6 +40476,7 @@
     opensecrets: N00054800
     wikipedia: Julie Fedorchak
     wikidata: Q37824664
+    pictorial: 13712
   name:
     first: Julie
     middle: Ann
@@ -40455,6 +40504,7 @@
     opensecrets: N00055218
     wikipedia: Maggie Goodlander
     wikidata: Q126718734
+    pictorial: 13717
   name:
     first: Maggie
     middle: Vivian
@@ -40482,6 +40532,7 @@
     opensecrets: N00026951
     wikipedia: Herb Conaway
     wikidata: Q14596151
+    pictorial: 13720
   name:
     first: Herbert
     middle: Clark Hoover
@@ -40510,6 +40561,7 @@
     opensecrets: N00055613
     wikipedia: Nellie Pou
     wikidata: Q6990132
+    pictorial: 13726
   name:
     first: Nellie
     middle: Avila
@@ -40537,6 +40589,7 @@
     opensecrets: N00050425
     wikipedia: Laura Gillen
     wikidata: Q131105202
+    pictorial: 13740
   name:
     first: Laura
     middle: Anne
@@ -40564,6 +40617,7 @@
     opensecrets: N00054136
     wikipedia: George Latimer (New York politician)
     wikidata: Q5544169
+    pictorial: 13752
   name:
     first: George
     middle: Stephen
@@ -40591,6 +40645,7 @@
     opensecrets: N00049916
     wikipedia: Josh Riley
     wikidata: Q113988129
+    pictorial: 13755
   name:
     first: Josh
     middle: Paul
@@ -40618,6 +40673,7 @@
     opensecrets: N00053112
     wikipedia: John Mannion (American politician)
     wikidata: Q106089566
+    pictorial: 13758
   name:
     first: John
     middle: W.
@@ -40645,6 +40701,7 @@
     opensecrets: N00054098
     wikipedia: David Taylor (Ohio politician)
     wikidata: Q131123679
+    pictorial: 13764
   name:
     first: David
     middle: J.
@@ -40672,6 +40729,7 @@
     opensecrets: N00054144
     wikipedia: Maxine Dexter
     wikidata: Q96777172
+    pictorial: 13785
   name:
     first: Maxine
     middle: Elizabeth
@@ -40699,6 +40757,7 @@
     opensecrets: N00052777
     wikipedia: Janelle Bynum
     wikidata: Q28507879
+    pictorial: 13787
   name:
     first: Janelle
     middle: S.
@@ -40726,6 +40785,7 @@
     opensecrets: N00041866
     wikipedia: Ryan Mackenzie
     wikidata: Q7384273
+    pictorial: 13795
   name:
     first: Ryan
     middle: Edward
@@ -40753,6 +40813,7 @@
     opensecrets: N00053588
     wikipedia: Rob Bresnahan
     wikidata: Q130963821
+    pictorial: 13796
   name:
     first: Robert
     middle: P.
@@ -40807,6 +40868,7 @@
     opensecrets: N00054222
     wikipedia: Sheri Biggs
     wikidata: Q130979821
+    pictorial: 13811
   name:
     first: Sheri
     middle: Lynn
@@ -40834,6 +40896,7 @@
     opensecrets: N00053861
     wikipedia: Craig Goldman
     wikidata: Q16199453
+    pictorial: 13837
   name:
     first: Craig
     middle: A.
@@ -40861,6 +40924,7 @@
     opensecrets: N00054402
     wikipedia: Brandon Gill
     wikidata: Q124753679
+    pictorial: 13851
   name:
     first: Brandon
     middle: Gene
@@ -40888,6 +40952,7 @@
     opensecrets: N00052806
     wikipedia: Julie Johnson (politician)
     wikidata: Q64753063
+    pictorial: 13857
   name:
     first: Julie
     middle: Elizabeth
@@ -40915,6 +40980,7 @@
     opensecrets: N00043086
     wikipedia: Mike Kennedy (politician)
     wikidata: Q16730723
+    pictorial: 13866
   name:
     first: Mike
     middle: Steven
@@ -40943,6 +41009,7 @@
     opensecrets: N00045930
     wikipedia: John McGuire (Virginia politician)
     wikidata: Q47545631
+    pictorial: 13872
   name:
     first: John
     middle: J.
@@ -40971,6 +41038,7 @@
     opensecrets: N00054112
     wikipedia: Eugene Vindman
     wikidata: Q112610369
+    pictorial: 13874
   name:
     first: Eugene
     middle: Simon
@@ -40998,6 +41066,7 @@
     opensecrets: N00054085
     wikipedia: Suhas Subramanyam
     wikidata: Q83250082
+    pictorial: 13877
   name:
     first: Suhas
     last: Subramanyam
@@ -41024,6 +41093,7 @@
     opensecrets: N00033716
     wikipedia: Michael Baumgartner
     wikidata: Q6828508
+    pictorial: 13885
   name:
     first: Michael
     middle: James
@@ -41051,6 +41121,7 @@
     opensecrets: N00054078
     wikipedia: Emily Randall
     wikidata: Q60473885
+    pictorial: 13886
   name:
     first: Emily
     middle: Elissa
@@ -41078,6 +41149,7 @@
     opensecrets: N00051965
     wikipedia: Riley Moore
     wikidata: Q93769958
+    pictorial: 13900
   name:
     first: Riley
     middle: M.
@@ -41106,6 +41178,7 @@
     opensecrets: N00053062
     wikipedia: Jim Justice
     wikidata: Q20684288
+    pictorial: 13927
   name:
     first: Jim
     middle: Conley
@@ -41135,6 +41208,7 @@
     - S6OH00304
     wikipedia: Jon Husted
     wikidata: Q6270269
+    pictorial: 14025
   name:
     first: Jon
     middle: Allen
@@ -41165,6 +41239,7 @@
     - S6FL00640
     wikipedia: Ashley Moody
     wikidata: Q58333626
+    pictorial: 13948
   name:
     first: Ashley
     middle: Brooke
@@ -41199,6 +41274,7 @@
     ballotpedia: Jimmy Patronis
     house_history: 36507226671
     google_entity_id: kg:/m/03d5p39
+    pictorial: 14039
   name:
     first: Jimmy
     middle: Theo
@@ -41231,6 +41307,7 @@
     ballotpedia: Randy Fine
     house_history: 36507226672
     google_entity_id: kg:/g/11fhvxds1p
+    pictorial: 14040
   name:
     first: Randall
     middle: Adam

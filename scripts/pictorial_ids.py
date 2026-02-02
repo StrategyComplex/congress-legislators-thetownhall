@@ -13,6 +13,7 @@ from utils import load_data, mkdir_p, save_data, parse_date
 #  --cache: load from cache if present on disk (default: false)
 #  --bioguide: load only one legislator, by their bioguide ID
 #  --congress: do *only* updates for legislators serving in specific congress
+#  --refresh: force re-lookup even if pictorial id already present
 #
 # example:
 #  python pictorial_ids.py --congress=118
@@ -26,6 +27,7 @@ def run():
 
     only_bioguide = utils.flags().get("bioguide", None)
     congress = utils.flags().get("congress", None)
+    refresh = utils.flags().get("refresh", False)
 
     data_files = []
     print("Loading %s..." % "legislators-current.yaml")
@@ -86,7 +88,7 @@ def run():
                 continue
 
             # skip if we already have it
-            if legislator["id"].get("pictorial"):
+            if legislator["id"].get("pictorial") and not refresh:
                 continue
             try:
                 pictorial_id = match_pictorial_id(legislator, pictorial_members)
